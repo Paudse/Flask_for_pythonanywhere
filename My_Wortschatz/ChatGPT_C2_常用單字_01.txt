@@ -1,0 +1,68 @@
+abstrakt	
+抽象的	Seine Ideen sind oft sehr abstrakt. (他的想法常常非常抽象。)
+adäquat	
+適當的，恰當的	Eine adäquate Lösung ist notwendig. (需要一個適當的解決方案。)
+anerkennen	
+承認	Ihre Leistungen wurden international anerkannt. (她的成就得到了國際認可。)
+beschleunigen	
+加快	Wir müssen den Prozess beschleunigen. (我們必須加快過程。)
+definiert	
+定義的	Die Begriffe müssen klar definiert werden. (這些術語必須清楚地定義。)
+differenzieren	
+區分，區別	Es ist wichtig, zwischen den beiden Konzepten zu differenzieren. (區分這兩個概念很重要。)
+diskutieren	
+討論	Wir sollten die Details in der Sitzung diskutieren. (我們應該在會議中討論這些細節。)
+einbeziehen	
+包含，納入	Alle relevanten Aspekte sollten einbezogen werden. (所有相關方面應該被納入考慮。)
+evident	
+明顯的	Der Unterschied zwischen den beiden Methoden ist evident. (這兩種方法之間的差異是明顯的。)
+fokussieren	
+集中，專注	Wir müssen uns auf die wichtigsten Punkte fokussieren. (我們必須集中在最重要的點上。)
+hypothetisch	
+假設的	Das Szenario ist nur hypothetisch. (這個情境只是個假設。)
+interpretieren	
+解釋	Es ist wichtig, die Daten korrekt zu interpretieren. (正確解釋數據是很重要的。)
+komplex	
+複雜的	Das System ist sehr komplex. (這個系統非常複雜。)
+konsequenzen	
+後果	Die Konsequenzen dieser Entscheidung sind weitreichend. (這個決定的後果是深遠的。)
+metaphorisch	
+隱喻的	Der Autor verwendet metaphorische Sprache, um seine Ideen auszudrücken. (作者使用隱喻語言來表達他的想法。)
+paradox	
+矛盾的	Die Situation scheint paradox zu sein. (情況似乎很矛盾。)
+präzise	
+精確的	Die Messergebnisse müssen präzise sein. (測量結果必須精確。)
+relevant	
+相關的	Nur relevante Informationen werden berücksichtigt. (只考慮相關的信息。)
+signifikant	
+顯著的	Der Unterschied ist statistisch signifikant. (這個差異在統計上是顯著的。)
+theoretisch	
+理論上的	Die Theorie ist theoretisch fundiert. (這個理論在理論上是有依據的。)
+transparenz	
+透明度	Transparenz ist entscheidend für das Vertrauen. (透明度對於信任至關重要。)
+veranschaulichen	
+說明，闡明	Der Professor veranschaulicht das Konzept mit Beispielen. (教授用例子來闡明這個概念。)
+vermitteln	
+傳達，傳授	Er kann sein Wissen sehr gut vermitteln. (他能很好地傳達他的知識。)
+widersprüchlich	
+矛盾的	Seine Aussagen sind widersprüchlich. (他的說法是矛盾的。)
+wissenschaftlich	
+科學的	Die Forschung muss wissenschaftlich fundiert sein. (研究必須在科學上有依據。)
+zielgerichtet	
+有目標的	Ihre Arbeit ist zielgerichtet und effektiv. (她的工作是有目標且有效的。)
+erörtern	
+討論，探討	Wir sollten alle möglichen Optionen erörtern. (我們應該探討所有可能的選擇。)
+erklären	
+解釋	Die Theorie wird im Detail erklärt. (這個理論被詳細解釋。)
+fragmentarisch	
+片段的	Der Bericht ist noch fragmentarisch und unvollständig. (報告仍然是片段的和不完整的。)
+komplex	
+複雜的	Der Prozess ist sehr komplex. (這個過程非常複雜。)
+prägnant	
+簡潔的	Die Präsentation war klar und prägnant. (簡報清晰而簡潔。)
+substantiell	
+實質的	Die Änderungen haben substanzielle Auswirkungen. (這些變更有實質性的影響。)
+verkomplizieren	
+使複雜化	Zusätzliche Anforderungen können den Prozess verkomplizieren. (額外的要求可能會使過程變得更複雜。)
+verwerfen	
+拋棄，拒絕	Wir haben den ursprünglichen Plan 

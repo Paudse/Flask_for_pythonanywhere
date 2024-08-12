@@ -1,0 +1,58 @@
+Ingenieur	
+工程師	Der Ingenieur entwirft die technischen Pläne. (工程師設計技術圖紙。)
+Projekt	
+項目	Das Projekt wird in drei Phasen unterteilt. (該項目分為三個階段。)
+Bau	
+建設，建築	Der Bau des neuen Gebäudes hat begonnen. (新建築物的建設已經開始。)
+Plan	
+設計圖，計劃	Der Plan muss vor Beginn des Projekts genehmigt werden. (計劃在項目開始前必須獲得批准。)
+Entwurf	
+設計，草圖	Der Entwurf des neuen Produkts ist fertig. (新產品的設計已經完成。)
+Bauleiter	
+工程監督，建築工地負責人	Der Bauleiter überwacht die Baustelle. (工程監督負責監控工地。)
+Baustelle	
+建築工地	Die Baustelle muss regelmäßig überprüft werden. (建築工地必須定期檢查。)
+Material	
+材料	Die Materialkosten sind im Budget enthalten. (材料費用已包含在預算中。)
+Konstruktion	
+結構，建造	Die Konstruktion des Gebäudes ist sehr komplex. (建築物的結構非常複雜。)
+Installation	
+安裝	Die Installation der neuen Maschinen ist abgeschlossen. (新機器的安裝已完成。)
+Ausrüstung	
+設備	Die Ausrüstung für das Labor wird geliefert. (實驗室的設備正在交付中。)
+Kosten	
+成本，費用	Die Kosten des Projekts überschreiten das Budget. (項目成本超出了預算。)
+Termin	
+截止日期，時間表	Der Termin für die Fertigstellung ist nächste Woche. (完工截止日期是下週。)
+Überprüfung	
+檢查	Eine Überprüfung der Sicherheitsvorkehrungen ist notwendig. (需要檢查安全措施。)
+Fehler	
+錯誤	Der Fehler im Design muss sofort behoben werden. (設計中的錯誤必須立即修正。)
+Norm	
+標準	Alle Materialien müssen den Normen entsprechen. (所有材料必須符合標準。)
+Technik	
+技術	Die neueste Technik wird in diesem Projekt verwendet. (這個項目使用了最新的技術。)
+Qualität	
+質量	Die Qualität des Endprodukts ist entscheidend. (最終產品的質量至關重要。)
+Sicherheit	
+安全	Sicherheitsmaßnahmen sind auf der Baustelle erforderlich. (工地上需要安全措施。)
+Projektmanagement	
+項目管理	Das Projektmanagement-Team ist für die Organisation verantwortlich. (項目管理團隊負責組織工作。)
+Überwachung	
+監控	Die Überwachung der Bauarbeiten erfolgt täglich. (建設工作的監控是每日進行的。)
+Bauplan	
+建築計劃	Der Bauplan muss vor dem Beginn der Arbeiten genehmigt werden. (建築計劃必須在開始工作前獲得批准。)
+Zeichnung	
+圖紙，圖形	Die technischen Zeichnungen sind sehr detailliert. (技術圖紙非常詳細。)
+Revision	
+修訂	Die Revision des Entwurfs ist abgeschlossen. (設計的修訂已完成。)
+Projektbudget	
+項目預算	Das Projektbudget wurde genehmigt. (項目預算已獲批准。)
+Fertigstellung	
+完工，完成	Die Fertigstellung des Projekts ist für nächste Woche geplant. (項目的完工預定在下週。)
+Berechnung	計
+算	Eine genaue Berechnung der Kosten ist erforderlich. (需要準確計算成本。)
+Dokumentation	
+文檔	Eine vollständige Dokumentation des Projekts ist erforderlich. (項目的完整文檔是必需的。)
+Prüfung	
+檢測	Die Prüfung der Sicherheitsvorkehrungen ist abgeschlossen. (安全措施的檢測已完成。)

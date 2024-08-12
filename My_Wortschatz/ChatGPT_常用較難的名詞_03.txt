@@ -1,0 +1,70 @@
+Ausschluss	
+排除	指將某人或某事物從某個群體或範疇中排除。	Der Ausschluss von der Veranstaltung war unumgänglich. (將其排除在活動之外是不可避免的。)
+Beurteilung	
+評價，判斷	指對某事物或某人的評價或判斷。	Die Beurteilung der Leistung erfolgt auf Basis von Kriterien. (對表現的評價基於一定標準。)
+Diskrepanz	
+差異，不一致	指在數據或意見之間的差異或不一致。	Es gab eine Diskrepanz zwischen den beiden Berichten. (兩份報告之間存在差異。)
+Einschätzung	
+評估，估計	指對某事物的評估或預測。	Die Einschätzung der Risiken war präzise. (風險的評估很精確。)
+Erfahrung	
+經驗	指通過實踐或參與獲得的知識和技能。	Langjährige Erfahrung in der Branche ist von Vorteil. (行業內的多年經驗是有利的。)
+Förderung	
+促進，支持	指支持或推動某事物的進步或發展。	Die Förderung der wissenschaftlichen Forschung ist wichtig. (促進科學研究是重要的。)
+Gegenseitigkeit	
+相互性，互惠	指雙方之間的互惠關係或相互作用。	Die Gegenseitigkeit der Zusammenarbeit fördert den Erfolg. (合作的互惠性促進了成功。)
+Herausforderung	
+挑戰	指需要克服的困難或挑戰。	Die Herausforderung bestand darin, das Projekt termingerecht abzuschließen. (挑戰在於按時完成項目。)
+Kompetenz	
+能力，專業知識	指某人在特定領域的知識或技能。	Die Kompetenz des Teams wurde durch das Projekt bestätigt. (團隊的能力通過項目得到了確認。)
+Methode	
+方法	指完成某項工作或研究的具體方法。	Die Methode zur Datenanalyse wurde weiterentwickelt. (數據分析方法得到了進一步發展。)
+Nachweis	
+證明，證據	指證明某事物真實性或有效性的證據。	Der Nachweis der Qualifikation wurde erbracht. (資格的證明已經提供。)
+Norm	
+標準，規範	指規定的標準或規範。	Die Einhaltung der Norm ist für die Qualitätssicherung entscheidend. (遵守標準對質量保證至關重要。)
+Rückblick	
+回顧	指對過去的事情或事件的檢視或反思。	Ein Rückblick auf die letzten Jahre zeigt klare Fortschritte. (對過去幾年的回顧顯示出明顯的進步。)
+Schlussfolgerung	
+結論	指根據證據或觀察得出的結論。	Die Schlussfolgerung des Berichts war eindeutig. (報告的結論是明確的。)
+Stellungnahme	
+聲明，意見	指對某事的正式聲明或意見。	Die Stellungnahme des Unternehmens wurde veröffentlicht. (公司的聲明已經公開。)
+Tendenz	
+趨勢，傾向	指某事物或現象的發展方向或趨勢。	Die Tendenz der Marktentwicklung ist positiv. (市場發展的趨勢是積極的。)
+Transparenz	
+透明度	指資訊或過程的清晰程度。	Die Transparenz des Projekts wird von den Stakeholdern geschätzt. (項目的透明度受到利益相關者的讚賞。)
+Verfahren	
+程序，方法	指特定步驟或過程。	Das Verfahren zur Genehmigung ist komplex. (批准程序是複雜的。)
+Vertrauen	
+信任	指對某人或某事物的信賴。	Vertrauen ist die Grundlage einer erfolgreichen Zusammenarbeit. (信任是成功合作的基礎。)
+Vorstellung	
+想法，構想	指對某事物的概念或構思。	Die Vorstellung eines neuen Modells wurde präsentiert. (一個新模型的構想被展示了。)
+Zufriedenheit	
+滿意	指對某事物的滿意度。	Die Zufriedenheit der Kunden wurde durch Umfragen gemessen. (客戶的滿意度通過調查測量。)
+Zusammenhang	
+關聯	指事物之間的關聯或連接。	Der Zusammenhang zwischen den Datenpunkten wurde analysiert. (數據點之間的關聯被分析了。)
+Glaubwürdigkeit	
+可信度	指某事物或某人的可靠性或可信性。	Die Glaubwürdigkeit des Berichts wurde bestätigt. (報告的可信度已經確認。)
+Herausforderung	
+挑戰	指需要克服的困難或挑戰。	Die größte Herausforderung war die Einhaltung der Fristen. (最大的挑戰是遵守截止日期。)
+Interesse	
+興趣	指對某事物的關注或好奇心。	Sein Interesse an der Forschung wuchs stetig. (他對研究的興趣持續增長。)
+Kooperation	
+合作	指多方之間的合作。	Die Kooperation zwischen den Abteilungen wurde gestärkt. (部門之間的合作得到了加強。)
+Konflikt	
+衝突	指不同意見或利益之間的爭執。	Der Konflikt zwischen den Parteien wurde gelöst. (各方之間的衝突得到了解決。)
+Kriterium	
+標準，準則	指用於評估的標準或準則。	Das Kriterium für die Auswahl der Kandidaten ist ihre Erfahrung. (選擇候選人的標準是他們的經驗。)
+Mangel	
+缺陷，缺乏	指某物的不足或缺陷。	Der Mangel an Ressourcen beeinträchtigte das Projekt. (資源的缺乏影響了項目。)
+Prozess	
+過程	指某個工作或變化的過程。	Der Prozess der Genehmigung kann mehrere Wochen dauern. (批准過程可能需要幾周時間。)
+Referenz	
+參考	指用於對照或比較的標準或來源。	Die Referenz für die Daten wurde angegeben. (數據的參考來源已經提供。)
+Ressource	
+資源	指可以利用的物質或力量。	Die effektive Nutzung von Ressourcen ist entscheidend für den Erfolg. (資源的有效利用對成功至關重要。)
+Strategie	
+策略	指為達成目標而制定的計劃或方法。	Die neue Strategie zielt darauf ab, den Marktanteil zu erhöhen. (新策略旨在提高市場份額。)
+Wissen	
+知識	指掌握的事實、技能或經驗。	Wissen ist eine wertvolle Ressource für Innovation. (知識是創新的寶貴資源。)
+Wirkung	
+影響	指某事物造成的結果或效果。	Die Wirkung der neuen Regelungen ist spürbar. (新規定的影響是明顯的。)

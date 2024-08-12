@@ -1,0 +1,78 @@
+abkommen	
+偏離，脫離	Der Politiker kam von seinem ursprünglichen Plan ab. (那位政治家偏離了他原來的計劃。)
+erläutern	
+詳細解釋	Der Dozent erläuterte die komplexen Theorien ausführlich. (講師詳細解釋了那些複雜的理論。)
+versichern	
+保證	Der Anbieter versicherte, dass das Produkt von hoher Qualität sei. (提供商保證產品質量很高。)
+beantragen	
+申請	Sie beantragte ein Stipendium für ihr Studium. (她為她的學業申請了獎學金。)
+einnehmen	
+採取，收入	Die Firma nahm im letzten Jahr hohe Gewinne ein. (公司去年獲得了高額的利潤。)
+ermöglichen	
+使能夠	Diese Technologie ermöglicht schnellere Datenverarbeitung. (這項技術使得數據處理更快。)
+hervorbringen	
+產生，創造	Die neue Software brachte viele Verbesserungen hervor. (新軟件帶來了許多改進。)
+feststellen	
+確定，發現	Der Arzt stellte fest, dass der Patient an einer Allergie litt. (醫生確定病人有過敏症。)
+behandeln	
+處理，治療	Der Arzt behandelte den Patienten mit einem speziellen Medikament. (醫生用一種特效藥物治療病人。)
+erreichen	
+達到	Wir haben alle unsere Ziele erreicht. (我們達到了所有的目標。)
+wahrnehmen	
+感知，察覺	Der Forscher nahm die Unterschiede in den Ergebnissen wahr. (研究人員察覺到了結果中的差異。)
+nachvollziehen	
+理解	Es ist schwer, seine Argumente nachzuvollziehen. (很難理解他的論點。)
+einhalten	
+遵守	Die Firma muss alle gesetzlichen Vorschriften einhalten. (公司必須遵守所有法律規定。)
+vermeiden	
+避免	Wir sollten Konflikte möglichst vermeiden. (我們應該儘量避免衝突。)
+voranbringen	
+推進	Die neue Strategie wird das Projekt voranbringen. (新策略將推進項目。)
+kürzen	
+縮短，刪減	Wir mussten das Budget kürzen. (我們不得不縮減預算。)
+auswerten	
+分析，評估	Die Forscher werten die Umfrageergebnisse aus. (研究人員分析了調查結果。)
+verändern	
+改變	Die Gesetzesänderung hat viele Aspekte des Alltags verändert. (法律變更改變了生活的許多方面。)
+aufnehmen	
+接收，錄音	Der Journalist nahm das Interview auf. (記者錄音了這次訪談。)
+realisieren	
+實現	Wir haben das Projekt erfolgreich realisiert. (我們成功實現了這個項目。)
+aufklären	
+澄清，解釋	Der Bericht klärt die Situation auf. (報告澄清了情況。)
+nachweisen	
+證明	Er konnte seine Ergebnisse durch Daten nachweisen. (他能通過數據證明他的結果。)
+vermeiden	
+避免	Wir sollten mögliche Fehler vermeiden. (我們應該避免可能的錯誤。)
+aufrufen	
+呼籲，召喚	Der Präsident rief die Bürger zur Zusammenarbeit auf. (總統呼籲市民合作。)
+ausreichen	
+足夠	Das Budget reicht nicht aus, um alle Projekte zu finanzieren. (預算不足以資助所有項目。)
+anregen	
+激發，啟發	Der Vortrag regte eine lebhafte Diskussion an. (講座激發了熱烈的討論。)
+vorbereiten	
+準備	Wir müssen uns gut auf das Meeting vorbereiten. (我們必須為會議做好準備。)
+anordnen	
+排列，安排	Die Dokumente wurden nach Datum geordnet. (文件按日期排列。)
+gestalten	
+設計，塑造	Der Designer gestaltete das neue Logo. (設計師設計了新的標誌。)
+erzeugen	
+產生，創造	Die Maschine erzeugt Strom. (這台機器產生電力。)
+verarbeiten	
+處理	Das Unternehmen verarbeitet große Datenmengen. (公司處理大量數據。)
+erkennen	
+認識，識別	Er erkannte sofort den Fehler. (他立即識別出了錯誤。)
+veröffentlichen	
+發表，公布	Der Artikel wird nächste Woche veröffentlicht. (文章將於下週發表。)
+aufbauen	
+建立，組建	Die Firma baut eine neue Abteilung auf. (公司建立了一個新的部門。)
+abschließen	
+完成，結束	Wir haben das Projekt erfolgreich abgeschlossen. (我們成功完成了這個項目。)
+zuziehen	
+移入	Die Familie zog in ein neues Haus zu. (這個家庭搬進了一棟新房子。)
+einstellen	
+調整，聘用	Die Firma stellte neue Mitarbeiter ein. (公司聘用了新員工。)
+vermitteln	
+介導，調解	Der Mediator vermittelte zwischen den beiden Parteien. (調解員在雙方之間進行了調解。)
+umsetzen	
+實施，轉換	Wir müssen die neuen Richtlinien umsetzen. (我們需要實施新的政策。)

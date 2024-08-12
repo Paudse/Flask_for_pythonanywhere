@@ -1,0 +1,60 @@
+abnehmen	
+減少，下降	Die Kosten haben im letzten Jahr abgenommen. (成本在去年減少了。)
+Anforderung	
+要求	Die Anforderung an die Bewerber ist hoch. (對申請者的要求很高。)
+Beziehung	
+關係	Ihre Beziehung zu den Kollegen ist sehr gut. (她與同事的關係很好。)
+einführen	
+引入	Das Unternehmen plant, ein neues System einzuführen. (公司計劃引入一個新系統。)
+erreichen	
+達到	Wir haben unser Ziel erreicht. (我們達到了我們的目標。)
+verantwortlich	
+負責的	Er ist für das Projekt verantwortlich. (他負責這個項目。)
+geheim	
+秘密的	Die Informationen sind geheim. (這些信息是保密的。)
+herausfordern	
+挑戰	Der Wettbewerb fordert die Teilnehmer heraus. (比賽挑戰了參賽者。)
+Kriterium	
+標準，準則	Ein wichtiges Kriterium für die Auswahl ist die Erfahrung. (選擇的一個重要標準是經驗。)
+mangelhaft	
+有缺陷的，不足的	Die Qualität des Produkts ist mangelhaft. (產品的質量有缺陷。)
+Verhalten	
+行為	Sein Verhalten ist sehr professionell. (他的行為非常專業。)
+Wachstum	
+增長	Das Unternehmen hat ein starkes Wachstum erlebt. (公司經歷了強勁的增長。)
+Zufriedenheit	
+滿意度	Die Kundenzufriedenheit ist hoch. (顧客滿意度很高。)
+verschieben	
+推遲	Wir müssen das Treffen auf nächste Woche verschieben. (我們需要把會議推遲到下週。)
+überzeugen	
+說服	Er konnte alle mit seinen Argumenten überzeugen. (他能夠用他的論點說服所有人。)
+Fähigkeit	
+能力	Sie hat die Fähigkeit, komplexe Probleme zu lösen. (她有解決複雜問題的能力。)
+Gemeinschaft	
+社區，群體	Die Gemeinschaft arbeitet an einem neuen Projekt. (社區正在合作進行一個新項目。)
+Herausforderung	
+挑戰	Die neue Aufgabe stellt eine große Herausforderung dar. (這個新任務是一個很大的挑戰。)
+Konsequenz	
+後果	Die Konsequenzen seiner Entscheidung waren weitreichend. (他決定的後果是深遠的。)
+Optimierung	
+優化	Die Optimierung des Arbeitsablaufs ist erforderlich. (需要優化工作流程。)
+Realisierung	
+實現	Die Realisierung des Projekts dauert länger als erwartet. (項目的實現比預期的要長。)
+Sicherheit	
+安全	Sicherheit ist in diesem Bereich besonders wichtig. (安全在這個領域特別重要。)
+Tendenz	
+趨勢	Es gibt eine Tendenz zu mehr Online-Shopping. (有一種趨勢是更多的在線購物。)
+Überblick	
+概覽	Der Bericht gibt einen guten Überblick über die Situation. (報告對情況提供了良好的概覽。)
+Verfügung	
+處置	Die Mittel stehen Ihnen zur Verfügung. (資金隨時可以使用。)
+Wirkung	
+效果	Die Wirkung des neuen Medikaments ist vielversprechend. (新藥的效果很有希望。)
+Zusammenarbeit	
+合作	Die Zusammenarbeit zwischen den Abteilungen ist wichtig. (部門之間的合作很重要。)
+Bewertung	
+評估	Die Bewertung der Leistung erfolgt am Ende des Jahres. (績效評估在年底進行。)
+Entwicklung	
+發展	Die Entwicklung neuer Technologien ist entscheidend für das Wachstum. (新技術的發展對增長至關重要。)
+Gegenteil	相
+反	Das Gegenteil von "schwer" ist "leicht". ("重"的反義詞是"輕"。)

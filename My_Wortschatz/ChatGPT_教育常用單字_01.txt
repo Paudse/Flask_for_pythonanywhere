@@ -1,0 +1,64 @@
+Bildung	
+教育，學習	Bildung ist der Schlüssel zum Erfolg im Leben. (教育是人生成功的關鍵。)
+Schule	
+學校	Meine Kinder gehen jeden Tag zur Schule. (我的孩子每天去學校。)
+Lehrer	
+老師	Der Lehrer erklärt die neue Lektion sehr anschaulich. (老師非常生動地解釋了新課程。)
+Schüler	
+學生	Die Schüler müssen ihre Hausaufgaben bis Freitag abgeben. (學生必須在星期五之前交作業。)
+Klassenzimmer	
+教室	Das Klassenzimmer ist gut ausgestattet. (教室設備齊全。)
+Unterricht	
+課程，教學	Der Unterricht beginnt um acht Uhr morgens. (課程早上八點開始。)
+Hausaufgabe	
+作業	Die Hausaufgabe umfasst zwei Seiten Text. (作業包括兩頁文字。)
+Prüfung	
+考試	Die Prüfung findet nächste Woche statt. (考試下週進行。)
+Noten	
+成績	Die Noten der letzten Prüfung waren sehr gut. (上次考試的成績非常好。)
+Lehrplan	
+課程大綱	Der Lehrplan umfasst alle wichtigen Themen des Jahres. (課程大綱涵蓋了年度內所有重要主題。)
+Seminar	
+研討會，講座	Das Seminar zur Weiterbildung findet am Freitag statt. (進修研討會在星期五舉行。)
+Abschluss	
+畢業，結業	Der Abschluss des Studiums ist ein großer Erfolg. (畢業是一次重大的成功。)
+Fach	
+學科，科目	Mathematik ist ein Fach, das viele Schüler herausfordert. (數學是一門挑戰性很大的學科。)
+Projekt	
+項目	Das Projekt wird von den Schülern in Gruppen bearbeitet. (這個項目由學生分組完成。)
+Stipendium	
+獎學金	Er erhielt ein Stipendium für seine hervorragenden Leistungen. (他因出色的表現獲得了獎學金。)
+Vortrag	
+演講，報告	Der Vortrag über erneuerbare Energien war sehr informativ. (關於可再生能源的演講非常有信息量。)
+Lehrbuch	
+教科書	Das Lehrbuch ist für das Studium unerlässlich. (教科書對於學習是必不可少的。)
+Arbeitsblatt	
+工作紙，練習題	Die Schüler füllten die Arbeitsblätter während des Unterrichts aus. (學生在課堂上填寫了工作紙。)
+Schulabschluss	
+中學畢業	Der Schulabschluss markiert den Übergang zu höheren Bildungswegen. (中學畢業標誌著進入更高教育階段的過渡。)
+Bibliothek	
+圖書館	Die Bibliothek bietet eine große Auswahl an Fachliteratur. (圖書館提供了大量的專業文獻。)
+Dozent	
+講師	Der Dozent erklärte das komplexe Thema sehr verständlich. (講師非常清晰地解釋了這個複雜的主題。)
+Studium	
+學習，研究	Das Studium an der Universität erfordert viel Zeit und Engagement. (大學學習需要大量的時間和投入。)
+Kompetenz	
+能力，技能	Kompetenzen in der Informationsverarbeitung sind heute sehr wichtig. (信息處理能力在今天非常重要。)
+Zertifikat	
+證書	Nach Abschluss des Kurses erhielt er ein Zertifikat. (完成課程後，他獲得了一張證書。)
+Schulranzen	
+書包	Der Schulranzen ist schwer, weil er viele Bücher enthält. (書包很重，因為裡面有很多書。)
+Nachhilfe	
+補習	Er nimmt Nachhilfe, um seine Noten zu verbessern. (他上補習班以提高成績。)
+Teilnehmer	
+參與者	Die Teilnehmer des Workshops waren sehr engagiert. (研討會的參與者非常投入。)
+Curriculum	
+課程設置	Das Curriculum wurde überarbeitet, um aktuellen Anforderungen zu entsprechen. (課程設置已經過修改，以符合當前要求。)
+Lernmaterial	
+學習材料	Die Lehrer stellen den Schülern alle notwendigen Lernmaterialien zur Verfügung. (老師提供了所有必要的學習材料給學生。)
+Leistungsnachweis	
+成績單，證明	Der Leistungsnachweis ist für die Bewerbung um ein Stipendium erforderlich. (成績單對於申請獎學金是必需的。)
+Rhetorik	
+修辭學，口才	Rhetorik ist wichtig für effektive Kommunikation. (修辭學對於有效的溝通很重要。)
+Kurs	
+課程	Der Kurs behandelt alle Aspekte der modernen Wirtschaft. (這門課程涵蓋了現代經濟的所有方面。)

@@ -1,0 +1,78 @@
+abheben	
+提取，升起	Ich möchte Geld von meinem Konto abheben. (我想從我的帳戶提取一些錢。)
+abstimmen	
+協調，投票	Wir müssen die Änderungen mit dem Team abstimmen. (我們需要與團隊協調這些更改。)
+ausnutzen	
+利用，剝削	Wir sollten die Gelegenheit ausnutzen, um neue Kunden zu gewinnen. (我們應該利用這個機會來吸引新客戶。)
+bearbeiten	
+編輯，處理	Ich werde die Dokumente bearbeiten. (我會處理這些文件。)
+einhalten	
+遵守	Es ist wichtig, alle Vorschriften einzuhalten. (遵守所有規則很重要。)
+einstellen	
+雇用，調整	Das Unternehmen hat neue Mitarbeiter eingestellt. (公司雇用了新員工。)
+erforderlich	
+必要的	Eine weitere Schulung ist erforderlich. (需要進一步的培訓。)
+ergänzen	
+補充	Bitte ergänzen Sie die fehlenden Angaben. (請補充缺失的信息。)
+gefallen	
+使喜歡	Der neue Entwurf gefällt mir sehr. (我非常喜歡新的設計。)
+infolgedessen	
+因此	Er war zu spät und infolgedessen hat er den Beginn des Meetings verpasst. (他遲到了，因此錯過了會議的開始。)
+kritisieren	
+批評	Er hat die neue Strategie scharf kritisiert. (他對新策略提出了嚴厲的批評。)
+lösen	
+解決	Wir müssen das Problem schnell lösen. (我們需要快速解決問題。)
+nachdenken	
+思考	Ich muss über die Vorschläge nachdenken. (我需要考慮這些建議。)
+nebenbei	
+順便	Ich habe nebenbei noch einige Aufgaben erledigt. (我順便做了一些其他任務。)
+schätzen	
+估計	Wir schätzen die Kosten auf etwa 2000 Euro. (我們估計成本約為2000歐元。)
+überlegen	
+考慮	Ich werde mir das Angebot überlegen. (我會考慮這個提議。)
+umfassend	
+全面的	Wir haben eine umfassende Analyse durchgeführt. (我們進行了一次全面的分析。)
+unterscheiden	
+區分	Wir müssen zwischen den verschiedenen Optionen unterscheiden. (我們需要區分不同的選項。)
+verfügbar	
+可用的	Die Software ist ab sofort verfügbar. (該軟件即刻可用。)
+vermeiden	
+避免	Wir sollten Risiken vermeiden. (我們應該避免風險。)
+verzichten	
+放棄	Er hat auf den Bonus verzichtet. (他放棄了獎金。)
+vorstellen	
+介紹	Darf ich Ihnen meinen Kollegen vorstellen? (我可以介紹一下我的同事嗎？)
+während	
+在…期間	Während des Meetings gab es technische Probleme. (會議期間出現了技術問題。)
+zuverlässig	
+可靠的	Sie ist eine sehr zuverlässige Mitarbeiterin. (她是一位非常可靠的員工。)
+abstimmen	
+協調	Wir müssen die Termine abstimmen. (我們需要協調時間。)
+erklären	
+解釋	Er erklärte den komplexen Sachverhalt sehr verständlich. (他非常清楚地解釋了這個複雜的問題。)
+erreichen	
+達到	Wir haben unser Ziel erreicht. (我們達到了目標。)
+feedback	
+反饋	Ich habe ein positives Feedback von den Kunden erhalten. (我收到了客戶的正面反饋。)
+geplant	
+計劃中的	Das neue Produkt ist für nächste Woche geplant. (新產品計劃於下週推出。)
+herausfordern	
+挑戰	Die Aufgabe stellt uns vor große Herausforderungen. (這個任務給我們帶來了很大的挑戰。)
+interessieren	
+使感興趣	Die neue Technologie interessiert mich sehr. (新技術讓我非常感興趣。)
+mitteilen	
+通知	Wir möchten Ihnen die neuesten Entwicklungen mitteilen. (我們想通知您最新的發展。)
+nötig	
+必要的	Es ist notwendig, die Vorschriften zu beachten. (遵守規定是必要的。)
+realisieren	
+實現	Wir haben den Plan erfolgreich realisiert. (我們成功實現了計劃。)
+spezifizieren	
+明確說明	Bitte spezifizieren Sie Ihre Anforderungen genauer. (請更詳細地說明您的要求。)
+überzeugen	
+說服	Sie konnte die Jury von ihrem Konzept überzeugen. (她能說服評審團接受她的概念。)
+verändern	
+改變	Wir müssen unsere Strategie ändern. (我們需要改變策略。)
+vornehmen	
+做，進行	Ich nehme mir vor, mehr Sport zu treiben. (我打算做更多的運動。)
+wichtig	
+重要的	Es ist wichtig, regelmäßig Feedback zu geben. (定期提供反饋是很重要的。)

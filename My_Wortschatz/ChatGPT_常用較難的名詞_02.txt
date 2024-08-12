@@ -1,0 +1,70 @@
+Abgrenzung	
+區分，劃界	指區分不同事物或範疇的過程。	Die Abgrenzung der Zuständigkeiten war notwendig. (劃分職責範圍是必要的。)
+Anerkennung	
+認可，承認	指對某人或某事的正式承認或認可。	Seine Anerkennung in der Fachwelt war verdient. (他在專業界的認可是應得的。)
+Aspekt	
+方面，視角	指某事物的不同方面或角度。	Jeder Aspekt des Projekts wurde sorgfältig geprüft. (項目的每一個方面都被仔細檢查了。)
+Bedeutung	
+意義，重要性	指某事物的意義或對某事的影響。	Die Bedeutung der Umweltschutzmaßnahmen ist enorm. (環境保護措施的重要性是巨大的。)
+Beziehung	
+關係，聯繫	指人或事物之間的關聯。	Ihre Beziehung zum Unternehmen ist langfristig. (她與公司的關係是長期的。)
+Dachverband	
+聯合會，總聯會	指由多個組織或機構組成的統一聯合體。	Der Dachverband koordiniert die Aktivitäten der Mitgliedsorganisationen. (總聯會協調成員組織的活動。)
+Erhebung	
+調查，收集	指系統地收集數據或信息的過程。	Die Erhebung der Daten ist für die Analyse unerlässlich. (數據的收集對分析至關重要。)
+Fehlinterpretation	
+誤解	指對某事物的錯誤解釋或理解。	Die Fehlinterpretation der Ergebnisse führte zu falschen Schlussfolgerungen. (對結果的誤解導致了錯誤的結論。)
+Fortschritt	
+進展，發展	指在某個過程中取得的進步或發展。	Der Fortschritt des Projekts wird regelmäßig überprüft. (項目的進展會定期檢查。)
+Gesellschaft	
+社會，社團	指一個由人組成的集體或社會群體。	Die Gesellschaft hat sich stark verändert. (社會已經發生了巨大的變化。)
+Herausforderung	
+挑戰	指需要克服的困難或挑戰。	Die Herausforderung bestand darin, das Projekt termingerecht abzuschließen. (挑戰在於按時完成項目。)
+Integrität	
+完整性，誠信	指某事物的完整性或人的誠實。	Die Integrität des Berichts wurde bestätigt. (報告的完整性得到了確認。)
+Konzeption	
+構思，設計	指創建計劃或設計的過程。	Die Konzeption des neuen Produkts wurde abgeschlossen. (新產品的設計已經完成。)
+Konsens	
+共識，一致	指多數人或團體達成的共同意見或同意。	Der Konsens unter den Mitgliedern wurde erreicht. (成員之間達成了一致的共識。)
+Kritikfähigkeit	
+批評能力	指接受和處理批評的能力。	Kritikfähigkeit ist eine wichtige Eigenschaft für Führungskräfte. (批評能力對領導者來說是一個重要的特質。)
+Lebensqualität	
+生活質量	指人們生活的舒適度和滿意度。	Die Verbesserung der Lebensqualität steht im Mittelpunkt der Stadtentwicklung. (提高生活質量是城市發展的重點。)
+Methode	
+方法	指完成某項工作或研究的具體方法。	Eine neue Methode zur Datenanalyse wurde entwickelt. (一種新的數據分析方法已經開發出來了。)
+Motivation	
+動機，激勵	指驅使某人做事的內在或外在因素。	Die Motivation der Mitarbeiter war hoch. (員工的動機很高。)
+Nachhaltigkeit	
+可持續性	指長期保持資源的使用，避免過度消耗。	Nachhaltigkeit ist ein zentrales Anliegen der modernen Unternehmen. (可持續性是現代企業的一個核心關注點。)
+Priorität	
+優先權	指某事物在處理中的優先級。	Die Priorität lag auf der Verbesserung der Sicherheitsstandards. (重點放在提高安全標準上。)
+Qualität	
+質量	指事物的優良程度或標準。	Die Qualität der Dienstleistung wurde gelobt. (服務的質量得到了讚揚。)
+Ressource	
+資源	指能夠利用的物質或能量。	Die effiziente Nutzung von Ressourcen ist entscheidend. (有效利用資源是至關重要的。)
+Strategie	
+策略	指實現目標的計劃或方法。	Eine klare Strategie ist notwendig für den langfristigen Erfolg. (明確的策略對於長期成功是必要的。)
+Transparenz	
+透明度	指信息的開放程度或可見性。	Transparenz ist wichtig für das Vertrauen der Öffentlichkeit. (透明度對公眾信任非常重要。)
+Verfahren	
+程序，過程	指按照一定步驟進行的過程或方法。	Das Verfahren zur Genehmigung ist komplex. (批准程序是複雜的。)
+Verhältnis	
+比例，關係	指兩個事物之間的數量或關係。	Das Verhältnis zwischen Angebot und Nachfrage war ausgeglichen. (供應和需求之間的比例是平衡的。)
+Vorgang	
+過程，事件	指一系列連續的動作或事件。	Der Vorgang der Bearbeitung wird detailliert beschrieben. (處理過程被詳細描述。)
+Ziel	
+目標	指希望達成的結果或目的。	Das Hauptziel des Projekts ist die Verbesserung der Effizienz. (項目的主要目標是提高效率。)
+Zustand	
+狀態，情況	指事物的當前狀況或情形。	Der Zustand des Gebäudes ist besorgniserregend. (建築物的狀況令人擔憂。)
+Wachstum	
+成長，增長	指事物的發展或增長。	Das Wachstum des Unternehmens war beeindruckend. (公司的增長令人印象深刻。)
+Wirkung	
+效果，影響	指某事物產生的效果或影響力。	Die Wirkung der neuen Regelung war sofort spürbar. (新規定的效果立即可感受到。)
+Zusammenarbeit	
+合作，協作	指多方協力完成某項工作。	Die Zusammenarbeit zwischen den Abteilungen verlief reibungslos. (部門之間的合作進行得很順利。)
+Zusammenhang	
+關聯，背景	指事物之間的關聯或背景。	Der Zusammenhang zwischen den verschiedenen Faktoren wurde untersucht. (不同因素之間的關聯被研究了。)
+Erhebung	
+調查，收集	指系統地收集數據或信息的過程。	Die Erhebung der Umfragedaten war umfassend. (調查數據的收集非常全面。)
+Integration	
+整合，融合	指將不同部分或元素組合成一個統一的整體。	Die Integration der neuen Mitarbeiter verlief erfolgreich. (新員工的融入進行得很成功。)

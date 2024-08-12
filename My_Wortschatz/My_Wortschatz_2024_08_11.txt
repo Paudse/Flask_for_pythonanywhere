@@ -1,0 +1,178 @@
+durchgefallen	
+未通过（检查）
+erhebliche Mängel	
+严重缺陷
+geringe Mängel	
+小缺陷
+ohne Beanstandung	
+无异议
+überwiegende Teil	
+大多数
+Durchfaller	
+未通过者
+verschlissene Bremsen	
+磨损的刹车
+fehlender Tankdeckel	
+缺少的油箱盖
+Achsen
+车轴
+Räder
+车轮
+Reifen
+轮胎
+Aufhängung
+悬挂
+Bremsanlage	
+刹车系统
+Umweltbelastungen	
+环境污染
+aktuellen Mängelquoten	
+当前的缺陷比率
+niedriger	
+更低
+festgestellt	
+发现
+Angaben	
+信息
+eingeschränkt	
+有限
+Datenquelle	
+数据来源
+statistischen Effekt	
+统计效应
+derzeit	
+目前
+ausreichend	
+足够
+belastbare Zahlen	
+可靠的数据
+Elektroauto-Pionier	
+电动汽车先锋
+Hitliste	
+排行榜
+durchschnittliche Mängelquote	
+平均缺陷比率
+verdrängt	
+替代
+Dauerverlierer	
+长期失败者
+Beleuchtung	
+照明
+Beanstandungen	
+异议
+TÜV-Sachverständige	
+TÜV专家
+rächt sich	
+产生了报应
+dichtes Netz an Werkstätten	
+密集的维修网
+Wartung	
+维护
+Antriebsstrang	
+驱动系统
+bewegliche Teile	
+可动部件
+bestehen TÜV-Hauptuntersuchung	
+通过 TÜV 主检
+Cockpit	
+驾驶舱
+Wartungstermin	
+维护预约
+Fahrwerk	
+底盘
+Gesamtgewinner	
+总冠军
+Plakette	
+贴纸（检验标志）
+Anmerkung der Redaktion	
+编辑说明
+präzisiert	
+澄清
+Batteriegehäuse	
+电池外壳
+thermisches Durchgehen	
+热失控
+Forschungsdienstleister	
+研究服务提供商
+thermische und mechanische Lasten	
+热负荷和机械负荷
+Bauweise	
+结构设计
+Schutzmaßnahmen	
+保护措施
+CO2-Fußabdruck	
+二氧化碳足迹
+Zell-Konfiguration	
+电池配置
+Normalbetrieb	
+正常操作
+Störereignisse	
+干扰事件
+Unfälle	
+事故
+Kosten-Nutzen-Bewertungen	
+成本效益评估
+Gehäusekonzepte	
+外壳设计
+Wettbewerbsfähigkeit	
+竞争力
+Stahl	
+钢材
+Kunststoffen	
+塑料
+Kantig	
+方正的
+auffallend	
+引人注目的
+Festkörper-Akku	
+固态电池
+Trockenkathoden-Batterien	
+干式阴极电池
+Belastungen	
+负荷
+Zell- und Gehäuseverhalten	
+电池和外壳行为
+zeitlicher Ablauf	
+时间过程
+geeignete Modelle	
+合适的模型
+Vorhersage der Lasten	
+负荷预测
+Bauteilentwicklung	
+部件开发
+Richtlinien zur Anwendung	
+应用指南
+Anmeldung	
+注册
+Laufzeit	
+持续时间
+tief-entladen	
+深度放电
+zerlegt	
+拆解
+gebrauchte Fahrzeugbatterien	
+使用过的车辆电池
+Kreislaufwirtschaft	
+循环经济
+EU-Batterieverordnung	
+欧盟电池法规
+stoffliche Verwertung	
+物质回收
+wiederverwendet	
+再利用
+industriellen Maßstab	
+工业规模
+Hochvoltspeicher	
+高压储能
+verkürzen	
+缩短
+patentieren lassen	
+申请专利
+Produktivitätsgewinn	
+生产力提升
+Kurzschlüsse	
+短路
+Brände	
+火灾
+Geschäftsführer	
+总经理

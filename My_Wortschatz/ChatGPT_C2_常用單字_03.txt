@@ -1,0 +1,70 @@
+adäquat	
+適當的	Die Antwort auf die Frage war adäquat. (對問題的回答很適當。)
+anfechten	
+申訴，挑戰	Er wird die Entscheidung anfechten. (他將挑戰這個決定。)
+artikulieren	
+表達	Es ist wichtig, seine Gedanken klar zu artikulieren. (清晰地表達自己的想法很重要。)
+bedeutsam	
+重要的	Diese Entdeckung ist wissenschaftlich bedeutsam. (這一發現對科學具有重要意義。)
+bevorzugen	
+偏好，優先	Viele Kunden bevorzugen das neue Modell. (許多客戶偏好新的型號。)
+delegieren	
+委派	Der Manager hat Aufgaben an sein Team delegiert. (經理已經把任務委派給了他的團隊。)
+differenzieren	
+區分，區別	Wir müssen die verschiedenen Merkmale differenzieren. (我們需要區分不同的特徵。)
+ergreifen	
+抓住，掌握	Der Wissenschaftler hat die Gelegenheit ergriffen. (科學家抓住了這個機會。)
+erkennen	
+認識，辨識	Ich erkenne die Bedeutung dieses Konzepts. (我認識到這個概念的重要性。)
+erörtern	
+討論，探討	Wir sollten die Vor- und Nachteile gründlich erörtern. (我們應該徹底討論優缺點。)
+extrahieren	
+提取，抽取	Die Daten wurden aus der Studie extrahiert. (數據從研究中提取出來了。)
+hypothetisch	
+假設的	Diese Annahme ist hypothetisch. (這個假設是基於假設的。)
+inklusiv	
+包括在內的	Der Preis ist inklusiv aller Steuern. (價格包含所有稅費。)
+integrativ	
+包容性的	Der integrative Ansatz fördert die Zusammenarbeit. (包容性方法促進了合作。)
+komplementär	
+互補的	Die beiden Technologien sind komplementär. (這兩種技術是互補的。)
+konkret	
+具體的	Die Maßnahmen sollten konkret umgesetzt werden. (措施應該具體實施。)
+korrelieren	
+相關，相關聯	Die Ergebnisse korrelieren stark miteinander. (結果彼此之間有很強的相關性。)
+legitim	
+合法的	Der Antrag wurde als legitim anerkannt. (申請被認為是合法的。)
+manipulieren	
+操控	Die Daten wurden manipuliert. (數據被操控了。)
+nuanciert	
+微妙的，細緻的	Die Analyse erfordert einen nuancierten Ansatz. (分析需要一個細緻的方法。)
+orthodox	
+正統的，傳統的	Er hat eine orthodoxe Haltung zu diesem Thema. (他對這個問題持有正統的立場。)
+paradigmatisch	
+標誌性的	Das neue Modell ist paradigmatisch für die Branche. (這個新模型對行業具有標誌性。)
+präzisieren	
+精確化	Wir müssen die Definition präzisieren. (我們需要精確化定義。)
+resilient	
+有彈性的，適應力強	Die Gesellschaft muss resilient gegenüber Krisen sein. (社會必須對危機有彈性。)
+sachverhaltsmäßig	
+事實上的	Die Analyse muss sachverhaltsmäßig korrekt sein. (分析必須在事實上是正確的。)
+schlüssig	
+合理的，邏輯的	Die Argumentation war schlüssig und überzeugend. (論證合理且令人信服。)
+spontan	
+自發的	Ihre Reaktion war spontan und unüberlegt. (她的反應是自發的，沒有深思熟慮。)
+subjektiv	
+主觀的	Die Bewertung ist subjektiv und basiert auf persönlichen Eindrücken. (評價是主觀的，基於個人印象。)
+transkribieren	
+抄錄，轉錄	Die Daten wurden transkribiert und analysiert. (數據被抄錄和分析。)
+verifizieren	
+驗證	Die Ergebnisse müssen verifiziert werden. (結果需要被驗證。)
+verzerren	
+扭曲，歪曲	Die Darstellung verzerrt die tatsächlichen Ergebnisse. (該描述扭曲了實際結果。)
+widerspiegeln	
+反映	Das Ergebnis widerspiegelt den tatsächlichen Zustand. (結果反映了實際情況。)
+zentrale	
+核心的，重要的	Dies ist ein zentrales Thema unserer Diskussion. (這是我們討論的核心話題。)
+zusammenfassend	
+總結性的	Die zusammenfassende Darstellung bietet einen guten Überblick. (總結性的描述提供了良好的概覽。)
+zweckmäßig	
+合適的，適當的	Die Lösung ist zweckmäßig und effektiv. (這個解決方案是合適且有效的。)

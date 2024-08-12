@@ -1,0 +1,72 @@
+abwickeln	
+處理，完成	Wir müssen die Abwicklung der Bestellung beschleunigen. (我們必須加快處理訂單的速度。)
+aufgrund	
+基於，因為	Aufgrund der Wetterbedingungen wurde das Event abgesagt. (由於天氣條件，活動被取消了。)
+durchführen	
+執行，進行	Das Team führt eine Marktanalyse durch. (團隊正在進行市場分析。)
+einsetzen	
+使用，投入	Wir setzen neue Technologien ein, um die Effizienz zu steigern. (我們使用新技術來提高效率。)
+erheben	
+徵集，收集	Wir erheben Daten zur Verbesserung des Kundenservices. (我們收集數據以改善客戶服務。)
+erhalten	
+獲得，保持	Wir haben eine positive Rückmeldung erhalten. (我們收到了正面的回饋。)
+fortbilden	
+進修，提升	Er möchte sich beruflich fortbilden. (他想要進行職業進修。)
+gegebenenfalls	
+如有必要	Gegebenenfalls können wir die Sitzung verschieben. (如有必要，我們可以推遲會議。)
+hinzufügen	
+添加	Bitte fügen Sie die fehlenden Informationen hinzu. (請添加缺少的信息。)
+inzwischen	
+目前，之間	Inzwischen haben sich die Bedingungen geändert. (目前條件已經改變。)
+klarstellen	
+澄清	Ich möchte einige Punkte klarstellen. (我想澄清幾個要點。)
+nachhaltig	
+可持續的	Wir setzen auf nachhaltige Produktionsmethoden. (我們採用可持續的生產方法。)
+präzise	
+精確的	Die Anleitung sollte präzise sein. (說明書應該是精確的。)
+schließlich	
+最終	Schließlich haben wir eine Lösung gefunden. (最終我們找到了方案。)
+sicherstellen	
+確保	Wir müssen die Qualität der Produkte sicherstellen. (我們必須確保產品質量。)
+tatsächlich	
+實際上	Tatsächlich ist das Ergebnis besser als erwartet. (實際上結果比預期的更好。)
+überarbeiten	
+修訂	Wir müssen den Bericht überarbeiten. (我們需要修訂報告。)
+vornehmen	
+執行，計劃	Ich werde eine Veränderung im Projekt vornehmen. (我會在項目中進行改變。)
+wiederherstellen	
+恢復	Wir haben das System erfolgreich wiederhergestellt. (我們成功恢復了系統。)
+Zufall	
+偶然	Es war ein Zufall, dass wir uns getroffen haben. (我們碰面是個巧合。)
+anpassen	
+調整	Wir müssen die Strategie anpassen. (我們需要調整策略。)
+aufklären	
+說明，澄清	Der Bericht klärt alle offenen Fragen auf. (報告澄清了所有未解決的問題。)
+ausreichend	
+足夠的	Die Ressourcen sind ausreichend für das Projekt. (資源對於這個項目來說是足夠的。)
+belasten	
+使承擔壓力	Die neue Aufgabe belastet das Team. (新任務使團隊承擔了壓力。)
+einhalten	
+遵守	Es ist wichtig, die Vorschriften einzuhalten. (遵守規則很重要。)
+feststellen	
+確定	Wir haben festgestellt, dass ein Fehler vorliegt. (我們已經確定存在錯誤。)
+gewährleisten	
+保證	Wir gewährleisten die Qualität unserer Produkte. (我們保證我們產品的質量。)
+herstellen	
+生產	Das Unternehmen stellt hochwertige Produkte her. (公司生產高品質產品。)
+überprüfen	
+檢查	Wir sollten die Ergebnisse gründlich überprüfen. (我們應該徹底檢查結果。)
+verfolgen	
+跟蹤，追蹤	Wir müssen die Fortschritte des Projekts verfolgen. (我們需要跟蹤項目的進展。)
+vergleichen	
+比較	Wir sollten die Preise vergleichen, bevor wir kaufen. (我們應該在購買前比較價格。)
+vermeiden	
+避免	Wir sollten Fehler vermeiden. (我們應該避免錯誤。)
+versichern	
+保證，確認	Er versicherte uns, dass alles in Ordnung ist. (他向我們保證一切都沒問題。)
+vorsehen	
+預見，規劃	Der Plan sieht vor, dass das Projekt bis Ende des Jahres abgeschlossen wird. (計劃規定該項目應在年底前完成。)
+während	
+在…期間，當…時	Während des Gesprächs war es ruhig. (談話期間很安靜。)
+zufrieden	
+滿意的	Wir sind mit den Ergebnissen zufrieden. (我們對結果滿意。)

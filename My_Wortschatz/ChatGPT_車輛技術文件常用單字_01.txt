@@ -1,0 +1,62 @@
+Abgasanlage	
+排氣系統	Die Abgasanlage muss regelmäßig gewartet werden. (排氣系統需要定期維護。)
+Antrieb	
+驅動系統	Der Antrieb des Fahrzeugs ist sehr leistungsstark. (這輛車的驅動系統非常強大。)
+Bremssystem	
+制動系統	Das Bremssystem muss auf Sicherheit überprüft werden. (制動系統需要檢查安全性。)
+Fahrwerk	
+懸掛系統	Das Fahrwerk sorgt für eine gute Straßenlage. (懸掛系統確保了良好的行駛穩定性。)
+Getriebe	
+變速箱	Das Getriebe sollte regelmäßig auf Verschleiß überprüft werden. (變速箱應定期檢查磨損情況。)
+Motor	
+引擎	Der Motor benötigt regelmäßige Ölwechsel. (引擎需要定期更換機油。)
+Kupplung	
+離合器	Die Kupplung funktioniert nicht richtig. (離合器工作不正常。)
+Lenkung	
+轉向系統	Eine präzise Lenkung ist entscheidend für die Fahrkontrolle. (精確的轉向系統對駕駛控制至關重要。)
+Kraftstoff	
+燃料	Der Kraftstoffverbrauch des Fahrzeugs ist effizient. (這輛車的燃料消耗很高效。)
+Batterie	
+電池	Die Batterie muss aufgeladen oder ersetzt werden. (電池需要充電或更換。)
+Schaltung	
+換檔	Die Schaltung funktioniert nicht einwandfrei. (換檔系統運作不正常。)
+Zündkerze	
+火花塞	Die Zündkerzen müssen regelmäßig ausgetauscht werden. (火花塞需要定期更換。)
+Abstand	
+間距	Der Abstand zwischen den Rädern sollte überprüft werden. (車輪之間的間距應該檢查。)
+Kühlmittel	
+冷卻液	Das Kühlmittel muss aufgefüllt werden. (冷卻液需要補充。)
+Ölstand	
+油位	Der Ölstand sollte regelmäßig kontrolliert werden. (油位應定期檢查。)
+Luftfilter	
+空氣濾清器	Der Luftfilter sollte regelmäßig gewechselt werden. (空氣濾清器應該定期更換。)
+Räder	
+輪胎	Die Räder müssen regelmäßig auf Abnutzung überprüft werden. (輪胎需要定期檢查磨損情況。)
+Stoßdämpfer	
+減震器	Die Stoßdämpfer sind wichtig für eine komfortable Fahrt. (減震器對於舒適的駕駛至關重要。)
+Leistung	
+功率	Die Leistung des Motors beträgt 150 PS. (引擎的功率為150匹馬力。)
+Treibstoff	
+燃料	Der Treibstoffverbrauch ist bei diesem Modell höher. (這個模型的燃料消耗較高。)
+Wartung	
+維護	Regelmäßige Wartung verlängert die Lebensdauer des Fahrzeugs. (定期維護可以延長車輛的使用壽命。)
+Komponente	
+組件	Jede Komponente des Fahrzeugs muss sorgfältig geprüft werden. (每個車輛組件都需要仔細檢查。)
+Ersatzteil	
+替換件	Die Bestellung eines Ersatzteils dauert etwa eine Woche. (替換件的訂購大約需要一週。)
+Getriebeöl	
+變速箱油	Das Getriebeöl muss alle 50.000 Kilometer gewechselt werden. (變速箱油每5萬公里需更換。)
+Scheinwerfer	
+大燈	Die Scheinwerfer müssen richtig eingestellt sein. (大燈需要正確調整。)
+Türschloss	
+門鎖	Das Türschloss funktioniert nicht richtig. (門鎖工作不正常。)
+Schaltknauf	
+換檔桿	Der Schaltknauf ist abgenutzt und muss ersetzt werden. (換檔桿磨損了，需要更換。)
+Katalysator	
+催化轉化器	Der Katalysator reduziert die Schadstoffemissionen. (催化轉化器能減少有害氣體排放。)
+Zahnräder	
+齒輪	Die Zahnräder im Getriebe müssen regelmäßig geschmiert werden. (變速箱中的齒輪需要定期潤滑。)
+Wischwasser	
+擦拭液	Das Wischwasser ist leer und muss nachgefüllt werden. (擦拭液已經用完，需要補充。)
+Federung	
+懸掛系統	Die Federung sorgt für eine sanfte Fahrt. (懸掛系統能提供平穩的行駛。)

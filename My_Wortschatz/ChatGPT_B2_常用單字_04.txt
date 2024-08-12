@@ -1,0 +1,72 @@
+abbrechen	
+取消，中止	Der Kurs wurde wegen der niedrigen Teilnehmerzahl abgebrochen. (課程因參與者人數過少而被取消。)
+anpassen	
+調整	Wir müssen das Budget an die neuen Bedingungen anpassen. (我們需要根據新條件調整預算。)
+ausführen	
+執行，實施	Er hat die Aufgabe erfolgreich ausgeführt. (他成功地執行了任務。)
+behalten	
+保留	Behalte alle Quittungen für die Steuererklärung. (保留所有收據以備稅務申報之用。)
+befriedigen	
+滿足	Der Kunde war mit dem Service zufrieden. (顧客對服務感到滿意。)
+einrichten	
+設立，布置	Wir richten ein neues Büro ein. (我們在布置一個新辦公室。)
+erledigen	
+完成	Ich habe alle Aufgaben erledigt. (我完成了所有的任務。)
+eröffnen	
+開啟，開設	Die neue Filiale wird nächste Woche eröffnet. (新分店將於下週開業。)
+fördern	
+促進，支持	Das Programm fördert die berufliche Weiterbildung. (該計劃促進了職業進修。)
+geplant	
+計劃中的	Die Veranstaltung ist für nächste Woche geplant. (活動計劃於下週舉行。)
+genießen	
+享受	Ich genieße die Zeit im Urlaub. (我享受假期的時光。)
+herausfinden	
+查明，發現	Wir müssen herausfinden, was das Problem verursacht. (我們需要查明問題的根源。)
+hinweisen	
+提醒，指示	Ich möchte auf eine wichtige Sache hinweisen. (我想提醒一件重要的事情。)
+involvieren	
+涉及	Das Projekt involviert mehrere Abteilungen. (該項目涉及多個部門。)
+möglichst	
+儘可能地	Bitte liefern Sie die Ware möglichst schnell. (請儘快交貨。)
+nachweisen	
+明	Sie müssen Ihre Qualifikationen nachweisen. (你必須證明你的資格。)
+rechtzeitig	
+及時	Der Bericht muss rechtzeitig eingereicht werden. (報告必須及時提交。)
+rückgängig	
+取消的	Die Änderungen wurden rückgängig gemacht. (變更已被取消。)
+sichern	
+保護，確保	Wir müssen unsere Daten sichern. (我們必須保護我們的數據。)
+systematisch	
+系統的	Der Ansatz ist systematisch und gründlich. (這個方法系統化且徹底。)
+überzeugen	
+說服	Der Redner konnte das Publikum überzeugen. (演講者能夠說服聽眾。)
+verfügbar	
+可用的	Die Produkte sind ab sofort verfügbar. (產品即刻可用。)
+vorbereiten	
+準備	Wir müssen uns gut auf die Konferenz vorbereiten. (我們需要好好準備會議。)
+wiederholen	
+重複	Bitte wiederholen Sie die Frage. (請重複問題。)
+zuständig	
+負責的	Er ist für die Buchhaltung zuständig. (他負責會計工作。)
+anbieten	
+提供	Wir bieten Ihnen eine breite Auswahl an Produkten an. (我們提供廣泛的產品選擇。)
+entwickeln	
+開發，發展	Das Team entwickelt eine neue Software. (團隊正在開發一款新軟體。)
+freuen	
+高興	Wir freuen uns auf die Zusammenarbeit. (我們期待合作。)
+gelten	
+適用，生效	Die neuen Regeln gelten ab dem nächsten Monat. (新規則從下個月起生效。)
+mitteilen	
+通知	Ich möchte Ihnen eine wichtige Information mitteilen. (我想通知您一個重要的信息。)
+plannen	
+計劃	Wir planen, das Produkt nächste Woche zu lancieren. (我們計劃下週推出這款產品。)
+schätzen	
+評估	Wir schätzen die Kosten auf etwa 500 Euro. (我們估算成本約為500歐元。)
+überprüfen	
+檢查	Wir müssen alle Dokumente überprüfen. (我們需要檢查所有文件。)
+verhandeln	
+談判	Wir müssen die Bedingungen neu verhandeln. (我們需要重新談判條件。)
+verlangen	
+要求	Der Kunde verlangt eine sofortige Rückerstattung. (顧客要求立即退款。)
+wünschen	
+希望	Wir wünschen Ihnen viel Erfolg. (我們祝您成功。)

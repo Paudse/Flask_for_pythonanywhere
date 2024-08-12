@@ -1,0 +1,70 @@
+abklären	
+澄清，解決	Wir müssen die Details noch abklären. (我們還需要澄清細節。)
+angehen	
+涉及，處理	Dieses Problem betrifft uns alle, es muss angegangen werden. (這個問題涉及我們所有人，必須處理。)
+ausdrücken	
+表達	Er konnte seine Gedanken klar ausdrücken. (他能清楚地表達他的想法。)
+bearbeiten	
+處理	Die Unterlagen müssen noch bearbeitet werden. (文件還需要處理。)
+berechnen	
+計算	Wir müssen die Gesamtkosten genau berechnen. (我們需要準確地計算總成本。)
+bewerten	
+評價	Wir müssen die Leistung der Mitarbeiter bewerten. (我們需要評價員工的表現。)
+deutlich	
+明顯的	Der Unterschied ist deutlich sichtbar. (差異明顯可見。)
+erfolgreich	
+成功的	Das Projekt war sehr erfolgreich. (這個項目非常成功。)
+fordern	
+要求	Die Situation erfordert sofortige Maßnahmen. (情況要求立即採取措施。)
+festhalten	
+記錄，保持	Wir sollten alle wichtigen Informationen festhalten. (我們應該記錄所有重要信息。)
+fördern	
+促進	Das Programm fördert die Kreativität der Teilnehmer. (該計劃促進了參與者的創造力。)
+geplant	
+計劃中的	Das neue System ist für nächste Woche geplant. (新系統計劃於下週推出。)
+erfordern	
+需要	Diese Aufgabe erfordert besondere Fähigkeiten. (這項任務需要特殊技能。)
+einhalten	
+遵守	Wir müssen alle Vorschriften einhalten. (我們必須遵守所有規定。)
+erklären	
+解釋	Sie erklärte den komplizierten Prozess sehr einfach. (她把複雜的過程解釋得非常簡單。)
+verhinder	
+防止	Wir müssen Maßnahmen treffen, um Probleme zu verhindern. (我們需要採取措施以防止問題發生。)
+umsetzen	
+實施	Wir werden die neuen Vorschriften umsetzen. (我們將實施新的規定。)
+verantworten	
+負責	Er ist für die Durchführung des Projekts verantwortlich. (他負責項目的執行。)
+verständnis	
+理解	Wir haben ein gutes Verständnis für die Situation. (我們對情況有很好的理解。)
+untersuchen	
+調查	Die Ursache des Problems wird gründlich untersucht. (問題的原因將進行徹底調查。)
+vermeiden	
+避免	Wir sollten Fehler vermeiden, indem wir sorgfältig arbeiten. (我們應該通過細心工作來避免錯誤。)
+weiterentwickeln	
+進一步發展	Das Unternehmen will seine Produkte weiterentwickeln. (公司希望進一步發展其產品。)
+überarbeiten	
+修訂	Wir müssen das Konzept überarbeiten, um es zu verbessern. (我們需要修訂這個概念以進行改進。)
+überzeugen	
+說服	Er konnte die Kunden von den Vorteilen seines Produkts überzeugen. (他能夠說服客戶相信其產品的優勢。)
+vergrößern	
+擴大	Wir planen, den Produktionsbereich zu vergrößern. (我們計劃擴大生產區域。)
+überblicken	
+概覽	Der Bericht gibt einen Überblick über die aktuellen Projekte. (報告概覽了目前的項目。)
+anpassen	
+調整	Wir müssen den Plan an die neuen Gegebenheiten anpassen. (我們需要根據新情況調整計劃。)
+besprechen	
+討論	Wir sollten die Details in der nächsten Sitzung besprechen. (我們應該在下一次會議上討論細節。)
+entwickeln	
+發展	Das Unternehmen entwickelt innovative Lösungen. (公司發展創新解決方案。)
+festlegen	
+確定	Wir müssen die Ziele für das nächste Jahr festlegen. (我們需要確定明年的目標。)
+liefern	
+交付	Wir werden die Waren innerhalb von 5 Werktagen liefern. (我們會在5個工作日內交付貨物。)
+nachvollziehen	
+理解	Ich kann deinen Standpunkt nachvollziehen. (我能理解你的立場。)
+realisieren	
+實現	Die Idee konnte schnell realisiert werden. (這個想法很快得以實現。)
+wahrnehmen	
+注意到	Ich habe die Veränderungen in der Branche wahrgenommen. (我注意到行業中的變化。)
+zielen	
+目標	Unser Ziel ist es, die Kundenzufriedenheit zu erhöhen. (我們的目標是提高客戶滿意度。)

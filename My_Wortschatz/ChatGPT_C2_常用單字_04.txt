@@ -1,0 +1,72 @@
+abstrahieren	
+抽象化	Um komplexe Themen zu verstehen, muss man abstrahieren. (要理解複雜的主題，必須進行抽象化。)
+adäquat	
+適當的	Der Vorschlag ist nicht adäquat für die aktuelle Situation. (這個建議對當前情況不適當。)
+anfechten	
+申訴，挑戰	Die Entscheidung wurde gerichtlich angefochten. (這個決定被提出了司法挑戰。)
+artikulieren	
+表達	Es ist wichtig, seine Ideen präzise zu artikulieren. (清楚地表達自己的想法是重要的。)
+bedeutsam	
+重要的	Die neue Theorie hat bedeutsame Auswirkungen auf das Feld. (這個新理論對這個領域有重要的影響。)
+bevorzugen	
+偏好，優先	Viele Menschen bevorzugen eine nachhaltige Lebensweise. (許多人偏好可持續的生活方式。)
+delegieren	
+委派	Der Chef delegiert Aufgaben an seine Mitarbeiter. (老闆將任務委派給他的員工。)
+differenzieren	
+區分，區別	Es ist wichtig, zwischen den verschiedenen Arten von Daten zu differenzieren. (區分不同類型的數據是重要的。)
+ergreifen	
+抓住，掌握	Der Moment wurde von den Fotografen ergriffen. (這一刻被攝影師抓住了。)
+erkennen	
+認識，辨識	Die neue Software kann Muster in den Daten erkennen. (新軟件能夠辨識數據中的模式。)
+erörtern	
+討論，探討	Wir müssen die ethischen Implikationen ausführlich erörtern. (我們需要詳細討論倫理影響。)
+extrahieren	
+提取，抽取	Die relevanten Informationen wurden aus dem Bericht extrahiert. (相關信息已從報告中提取。)
+hypothetisch	
+假設的	Die Theorie basiert auf hypothetischen Annahmen. (該理論基於假設性的假設。)
+inklusiv	
+包括在內的	Das Angebot ist inklusiv aller zusätzlichen Gebühren. (該報價包括所有額外費用。)
+integrativ	
+包容性的	Der integrative Ansatz fördert die Zusammenarbeit zwischen Abteilungen. (包容性方法促進部門之間的合作。)
+komplementär	
+互補的	Die beiden Fachgebiete sind komplementär zueinander. (這兩個專業領域是互補的。)
+konkret	
+具體的	Wir benötigen konkrete Vorschläge zur Verbesserung. (我們需要具體的改進建議。)
+korrelieren	
+相關，相關聯	Die beiden Variablen korrelieren positiv miteinander. (這兩個變量之間存在正相關。)
+legitim	合法的	
+Der Antrag wurde als legitim anerkannt. (申請被認為是合法的。)
+manipulieren	
+操控	Die Daten können manipuliert werden, um ein gewünschtes Ergebnis zu erzielen. (數據可以被操控以達到預期的結果。)
+nuanciert	
+微妙的，細緻的	Seine Argumentation war nuanciert und durchdacht. (他的論證是微妙且深思熟慮的。)
+orthodox	
+正統的，傳統的	Er hält sich an eine orthodoxe Methode der Problemlösung. (他堅持使用正統的問題解決方法。)
+paradigmatisch	
+標誌性的	Das Projekt stellt einen paradigmatischen Wandel in der Branche dar. (該項目代表了行業的標誌性變化。)
+präzisieren	
+精確化	Der Text sollte präzisiert werden, um Missverständnisse zu vermeiden. (文本應進行精確化，以避免誤解。)
+resilient	
+有彈性的，適應力強	Das Unternehmen ist gegenüber wirtschaftlichen Krisen resilient. (該公司對經濟危機具有彈性。)
+sachverhaltsmäßig	
+事實上的	Die sachverhaltsmäßige Prüfung ist entscheidend für die Bewertung. (事實上的檢查對於評估至關重要。)
+schlüssig	
+合理的，邏輯的	Ihre Argumentation war schlüssig und überzeugend. (她的論證合理且令人信服。)
+spontan	
+自發的	Die Reaktion auf die Einladung war spontan und herzlich. (對邀請的反應是自發且熱情的。)
+subjektiv	
+主觀的	Die Beurteilung der Kunstwerke ist oft subjektiv. (藝術品的評價往往是主觀的。)
+transkribieren	
+抄錄，轉錄	Die Interviews wurden transkribiert und analysiert. (訪談被抄錄並分析。)
+verifizieren	
+驗證	Wir müssen die Richtigkeit der Daten verifizieren. (我們需要驗證數據的準確性。)
+verzerren	
+扭曲，歪曲	Die Darstellung der Fakten kann die Wahrnehmung verzerren. (事實的描述可能扭曲感知。)
+widerspiegeln	
+反映	Die Studie spiegelt die aktuellen Trends im Markt wider. (該研究反映了市場的當前趨勢。)
+zentrale	
+核心的，重要的	Die zentrale Frage der Debatte ist die Ethik. (辯論的核心問題是倫理。)
+zusammenfassend	
+總結性的	Die zusammenfassende Analyse bietet einen umfassenden Überblick. (總結性的分析提供了全面的概覽。)
+zweckmäßig	
+合適的，適當的	Die Lösung ist zweckmäßig und erfüllt alle Anforderungen. (這個解決方案是合適的，滿足所有要求。)

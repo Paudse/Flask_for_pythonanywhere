@@ -1,0 +1,70 @@
+Ausschreibung	
+招標，公告	指邀請供應商或服務提供商提交報價的文件或程序。	Die Ausschreibung für das Bauprojekt wurde veröffentlicht. (建築項目的招標公告已經發布。)
+Behandlung	
+處理，治療	指處理某事物的過程或對病症的醫療措施。	Die Behandlung der Patienten erfolgt nach neuesten Richtlinien. (病人的治療按照最新的指導方針進行。)
+Ergebnis	
+結果，成果	指某個過程或事件的最終結果或產出。	Das Ergebnis der Studie war überraschend. (研究的結果令人驚訝。)
+Fähigkeit	
+能力，才能	指某人具備的技能或專長。	Ihre Fähigkeit zur Problemlösung ist beeindruckend. (她的問題解決能力令人印象深刻。)
+Genehmigung	
+批准，許可	指對某事物進行正式的許可或批准。	Die Genehmigung für das neue Projekt wurde erteilt. (新項目的批准已經發出。)
+Komplikation	
+複雜性，併發症	指在某個過程中出現的困難或問題。	Die Operation verlief ohne Komplikationen. (手術沒有出現併發症。)
+Mangel	
+缺乏，不足	指某事物的不足或缺陷。	Der Mangel an qualifizierten Arbeitskräften ist ein Problem. (缺乏合格的勞動力是一個問題。)
+Missverständnis	
+誤解	指對某事物的錯誤理解或誤會。	Das Missverständnis wurde schnell geklärt. (誤解很快被澄清了。)
+Motivation	
+動機，激勵	指驅使某人行動的內在或外在因素。	Die Motivation der Mitarbeiter ist entscheidend für den Erfolg. (員工的動機對成功至關重要。)
+Neigung	
+傾向，癖好	指某人對某事物的自然傾向或偏好。	Seine Neigung zu kreativen Aufgaben ist offensichtlich. (他對創意工作的傾向很明顯。)
+Relevanz	
+相關性，重要性	指某事物與某主題的關聯程度或重要性。	Die Relevanz der Studie für die Praxis ist groß. (這項研究對實踐的相關性很大。)
+Rückmeldung	
+反饋，回饋	指對某事物的回應或意見。	Die Rückmeldung der Kunden war überwiegend positiv. (客戶的回饋主要是積極的。)
+Sicherheit	
+安全	指保護或防範危險的狀態。	Die Sicherheit am Arbeitsplatz wird ständig überwacht. (工作場所的安全狀況會被持續監控。)
+Steuerung	
+控制，管理	指對某事物的調節或控制。	Die Steuerung des Systems erfolgt über eine zentrale Einheit. (系統的控制通過一個中央單位進行。)
+Strategie	
+策略，計劃	指為達成特定目標而制定的長期計劃或方法。	Die Strategie zur Marktführung wurde entwickelt. (市場領導策略已經制定。)
+Störung	
+擾動，干擾	指對正常運作的干擾或問題。	Die Störung des Dienstes wurde schnell behoben. (服務的擾動已經迅速解決。)
+Umsetzung	
+實施，實行	指將計劃或方案付諸實行的過程。	Die Umsetzung der neuen Richtlinien begann diese Woche. (新政策的實施從本周開始。)
+Voraussetzung	
+前提，條件	指實現某事物所需的基本條件或要求。	Eine gute Vorbereitung ist Voraussetzung für den Erfolg. (良好的準備是成功的前提。)
+Wachsamkeit	
+警惕，警覺	指保持警惕或小心以防止問題或危險。	Die Wachsamkeit der Sicherheitskräfte war hoch. (安全部隊的警覺性很高。)
+Wirkung	
+效果，影響	指某事物對環境或狀況的影響。	Die Wirkung der neuen Therapie ist vielversprechend. (新療法的效果是有希望的。)
+Zufriedenheit	
+滿意，滿足	指對某事物的滿意程度或感受。	Die Zufriedenheit der Kunden steht im Mittelpunkt unserer Arbeit. (客戶的滿意度是我們工作的核心。)
+Anpassung	
+調整，適應	指對某事物進行必要的變更以適應新情況。	Die Anpassung der Strategie war notwendig, um wettbewerbsfähig zu bleiben. (調整策略是必要的，以保持競爭力。)
+Aufgabe	
+任務，工作	指某個工作或職責。	Die Aufgabe des Teams bestand darin, das System zu optimieren. (團隊的任務是優化系統。)
+Bewertung	
+評估，評價	指對某事物的評估或判斷。	Die Bewertung der Leistung erfolgt anhand von Kriterien. (表現的評估依據標準進行。)
+Einfluss	
+影響，作用	指某事物對其他事物或人的影響力。	Der Einfluss der neuen Regelungen auf die Industrie war groß. (新規定對行業的影響很大。)
+Funktion	
+功能，作用	指某事物的功能或作用。	Die Funktion des neuen Systems wurde getestet. (新系統的功能已經測試過。)
+Korrektur	
+修正，更正	指對錯誤或缺陷進行的修正。	Eine Korrektur des Berichts war erforderlich. (報告的修正是必要的。)
+Kritik	
+批評，指責	指對某事物的不滿或批評意見。	Die Kritik am neuen Vorschlag war überwiegend negativ. (對新提案的批評主要是負面的。)
+Perspektive	
+角度，觀點	指對某事物的不同看法或視角。	Aus einer anderen Perspektive betrachtet, ergibt sich ein neues Bild. (從另一個角度看，會出現一個新的圖景。)
+Reaktion	
+反應	指對某事物的回應或反應。	Die Reaktion des Marktes auf das neue Produkt war positiv. (市場對新產品的反應是積極的。)
+Tätigkeit	
+活動，職責	指從事的工作或行為。	Seine Tätigkeit als Berater umfasst viele verschiedene Aufgaben. (他作為顧問的工作包括許多不同的任務。)
+Umfang	
+範圍，規模	指某事物的範圍或大小。	Der Umfang des Projekts wurde neu definiert. (項目的範圍已經重新定義。)
+Verfahren	
+程序，過程	指按照一定步驟進行的過程或方法。	Das Verfahren zur Verarbeitung von Daten ist komplex. (數據處理程序是複雜的。)
+Vorteil	
+優勢，好處	指某事物的有利條件或益處。	Der Vorteil der neuen Technologie liegt in ihrer Effizienz. (新技術的優勢在於其效率。)
+Wirkung	
+影響，效果	指某事物造成的結果或影響。	Die Wirkung der neuen Gesetzgebung zeigte sich schnell. (新立法的效果很快顯現。)

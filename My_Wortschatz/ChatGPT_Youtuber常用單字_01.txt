@@ -1,0 +1,54 @@
+Video	
+影片	Das neue Video wurde gestern hochgeladen. (新影片昨天上傳了。)
+Kanal	
+頻道	Mein Kanal hat jetzt 1000 Abonnenten. (我的頻道現在有1000名訂閱者。)
+Abonnent	
+訂閱者	Wir haben in den letzten Wochen viele neue Abonnenten gewonnen. (我們在最近幾周獲得了許多新訂閱者。)
+Videoaufnahme	
+影片拍攝	Die Videoaufnahme fand im Studio statt. (影片拍攝在工作室進行。)
+Bearbeitung	
+編輯	Die Bearbeitung des Videos hat mehrere Stunden gedauert. (影片的編輯花了幾個小時。)
+Thumbnail	
+預覽圖	Das Thumbnail sollte ansprechend und klar sein. (預覽圖應該具有吸引力和清晰。)
+Kommentar	
+評論	Die Kommentare unter dem Video sind sehr positiv. (影片下的評論非常正面。)
+Abonnieren	
+訂閱	Bitte abonniere meinen Kanal, um keine Videos zu verpassen. (請訂閱我的頻道，以免錯過任何影片。)
+Abo	
+訂閱 (簡稱)	Wir haben heute 10 neue Abos erhalten. (我們今天獲得了10個新訂閱。)
+Livestream	
+現場直播	Der Livestream beginnt um 20 Uhr. (現場直播在晚上8點開始。)
+Vlog	
+生活紀錄影片	Heute habe ich einen Vlog über meinen Alltag gemacht. (今天我做了一個關於我日常生活的Vlog。)
+Skript	
+腳本	Das Skript für das nächste Video ist bereits fertig. (下一個影片的腳本已經完成。)
+Monetarisierung	
+營利	Die Monetarisierung des Kanals erfolgt durch Werbung. (頻道的營利通過廣告進行。)
+Zuschauer	
+觀眾	Die Zuschauer haben das Video sehr gut aufgenommen. (觀眾對影片的反響很好。)
+Aufruf	
+點擊量，觀看次數	Das Video hat schon 5000 Aufrufe. (這部影片已經有5000次點擊量。)
+Tags	
+標籤	Die richtigen Tags helfen dabei, das Video besser zu finden. (正確的標籤有助於讓影片更容易被找到。)
+Kollaboration	
+合作	Wir planen eine Kollaboration mit anderen YouTubern. (我們計劃與其他YouTuber合作。)
+Trend	
+趨勢	Das Video greift aktuelle Trends auf. (這個影片捕捉了當前的趨勢。)
+Hintergrundmusik	
+背景音樂	Die Hintergrundmusik muss lizenzfrei sein. (背景音樂必須是免版稅的。)
+Monetarisieren	
+營利，賺錢	Der Kanal beginnt, Einnahmen zu monetarisieren. (頻道開始營利收入。)
+Analytics	
+分析	Die Analytics zeigen, dass die Zuschauer aus verschiedenen Ländern kommen. (分析顯示觀眾來自不同的國家。)
+Audience	
+觀眾群體	Die Zielgruppe des Kanals sind Jugendliche. (頻道的目標觀眾群是青少年。)
+Content
+	內容	Der Content des Videos ist informativ und unterhaltsam. (影片的內容既資訊豐富又有趣。)
+Drehbuch	
+腳本	Ein gutes Drehbuch ist wichtig für ein gelungenes Video. (一個好的腳本對於一部成功的影片很重要。)
+Erscheinungsdatum	
+上線日期	Das Erscheinungsdatum des nächsten Videos ist nächste Woche. (下一部影片的上線日期是下週。)
+Bearbeitungssoftware	
+編輯軟體	Ich benutze eine professionelle Bearbeitungssoftware für meine Videos. (我使用專業的編輯軟體來處理我的影片。)
+Content Creator	
+內容創作者	Als Content Creator ist es wichtig, regelmäßig neue Videos hochzuladen. (作為內容創作者，定期上傳新影片是很重要的。)

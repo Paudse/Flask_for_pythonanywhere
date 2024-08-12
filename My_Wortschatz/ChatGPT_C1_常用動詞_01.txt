@@ -1,0 +1,78 @@
+absehen	
+預見，預料	Von dieser Entwicklung war bereits abzusehen. (這一發展是早已可以預見的。)
+anpassen	
+調整，適應	Wir müssen unsere Strategie an die neuen Bedingungen anpassen. (我們需要將策略調整到新的條件。)
+aufklären	
+說明，解釋	Der Experte hat die komplexen Sachverhalte aufgeklärt. (專家解釋了複雜的情況。)
+ausdrücken	
+表達	Er konnte seine Gefühle nicht richtig ausdrücken. (他無法正確表達自己的感情。)
+beeinflussen	
+影響	Das Wetter kann unsere Laune stark beeinflussen. (天氣可以大大影響我們的情緒。)
+begründen	
+理由，解釋	Bitte begründen Sie Ihre Entscheidung. (請解釋您的決定。)
+einführen	
+引入，實施	Die neue Regelung wird ab nächster Woche eingeführt. (新規定將從下週開始實施。)
+erklären	
+解釋，說明	Der Lehrer erklärte das Thema ausführlich. (老師詳細解釋了這個主題。)
+erfassen	
+捕捉，理解	Die Umfrage erfasst die Meinungen der Bürger. (調查捕捉了公民的意見。)
+erhalten	
+獲得，接收	Wir haben einen Brief von der Firma erhalten. (我們收到了公司的一封信。)
+vergleichen	
+比較	Vergleichen Sie die beiden Angebote sorgfältig. (仔細比較這兩個報價。)
+vermitteln	
+介紹，傳遞	Der Mediator vermittelte zwischen den beiden Parteien. (調解員在雙方之間進行了調解。)
+verwenden	
+使用	Er verwendet verschiedene Methoden zur Analyse. (他使用了多種方法進行分析。)
+vorstellen	
+介紹，呈現	Ich möchte Ihnen unsere neue Produktlinie vorstellen. (我想向您介紹我們的新產品系列。)
+widerspiegeln	
+反映	Die Studie widerspiegelt die aktuellen Trends. (這項研究反映了當前的趨勢。)
+zusammenfassen	
+總結	Der Bericht fasst die wichtigsten Ergebnisse zusammen. (報告總結了最重要的結果。)
+abhandeln	
+處理，討論	Wir haben alle Themen abgehandelet. (我們已經處理了所有議題。)
+aufrechterhalten	
+維持	Es ist wichtig, die hohe Qualität der Produkte aufrechtzuerhalten. (維持產品的高質量是重要的。)
+hervorheben	
+突出，強調	Der Redner hob die wichtigsten Punkte hervor. (演講者強調了最重要的點。)
+überprüfen	
+檢查	Bitte überprüfen Sie die Daten auf Fehler. (請檢查數據是否有錯誤。)
+vermeiden	
+避免	Wir sollten Risiken möglichst vermeiden. (我們應該盡量避免風險。)
+anregen	
+激勵，啟發	Die Diskussion regte neue Ideen an. (討論激發了新的想法。)
+beachten	
+注意	Sie sollten alle Anweisungen beachten. (您應該注意所有指示。)
+einsetzen	
+使用，投入	Er setzte seine Fähigkeiten effektiv ein. (他有效地使用了自己的技能。)
+erlauben	
+允許	Die Regelung erlaubt keine Ausnahmen. (規定不允許任何例外。)
+erleben	
+體驗	Wir haben eine spannende Reise erlebt. (我們體驗了一次激動人心的旅行。)
+lösen	
+解決	Wir müssen das Problem gemeinsam lösen. (我們必須共同解決這個問題。)
+richten	
+調整，處理	Wir müssen die Geräte richtig einstellen. (我們需要正確設置設備。)
+sichern	
+確保，保護	Wir müssen unsere Daten sichern. (我們需要保護我們的數據。)
+übertragen	
+轉移，傳送	Die Daten wurden erfolgreich übertragen. (數據已成功轉移。)
+wählen	
+選擇	Sie wählte die beste Option aus. (她選擇了最好的選擇。)
+aufklären	
+解釋，澄清	Die Polizei klärte den Vorfall schnell auf. (警方迅速澄清了事件。)
+anordnen	
+排列，安排	Er ordnete die Unterlagen nach Datum an. (他按日期排列了文件。)
+belegen	
+證明，證據	Er konnte seine Behauptungen durch Belege belegen. (他能通過證據證明自己的說法。)
+entwickeln	
+發展，開發	Das Unternehmen entwickelt neue Technologien. (公司正在開發新技術。)
+festlegen	
+確定，設定	Wir müssen den Termin festlegen. (我們需要確定日期。)
+messen	
+測量	Die Ingenieure messen die Leistung der Maschine. (工程師測量機器的性能。)
+verhalten	
+表現，行為	Das Verhalten des Schülers war vorbildlich. (學生的行為很模範。)
+vorhersagen	
+預測	Experten können das Wetter vorhersagen. (專家可以預測天氣。)

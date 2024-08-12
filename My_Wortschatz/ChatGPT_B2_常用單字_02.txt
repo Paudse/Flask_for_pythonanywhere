@@ -1,0 +1,70 @@
+abgeschlossen	
+完成的，結束的	Das Projekt ist erfolgreich abgeschlossen. (項目已成功完成。)
+beeinflussen	
+影響	Dein Verhalten kann andere beeinflussen. (你的行為可以影響他人。)
+einverstanden	
+同意的	Ich bin mit den Bedingungen einverstanden. (我同意這些條件。)
+erklären	
+解釋	Der Lehrer erklärte das Thema sehr detailliert. (老師詳細地解釋了這個主題。)
+enthalten	
+包含	Das Paket enthält wichtige Dokumente. (包裹裡包含重要文件。)
+fortschrittlich	
+先進的，進步的	Die Technologie ist sehr fortschrittlich. (這項技術非常先進。)
+gezielt	
+有目的的，針對的	Wir müssen gezielte Maßnahmen ergreifen. (我們需要採取有針對性的措施。)
+hinweisen	
+指出，提醒	Ich möchte Sie auf einige Punkte hinweisen. (我想提醒您幾點。)
+interessant	
+有趣的	Das Buch ist sehr interessant. (這本書非常有趣。)
+Kunde	
+顧客	Der Kunde ist mit dem Service zufrieden. (顧客對服務感到滿意。)
+Lösung	
+解決方案	Wir suchen nach einer Lösung für das Problem. (我們在尋找問題的解決方案。)
+maßgeblich	
+重要的，關鍵的	Ihre Entscheidung hat maßgeblichen Einfluss. (你的決定有關鍵的影響。)
+Neigung	
+傾向，愛好	Er hat eine Neigung zur Musik. (他對音樂有傾向。)
+vermeiden	
+避免	Wir sollten Risiken vermeiden. (我們應該避免風險。)
+vorbereiten	
+準備	Wir bereiten uns auf die Präsentation vor. (我們在準備演示。)
+Wachsamkeit	
+警覺	Wachsamkeit ist bei der Arbeit wichtig. (在工作中，警覺性很重要。)
+wiederholen	
+重複	Bitte wiederholen Sie die Frage. (請重複問題。)
+Wissenschaft	
+科學	Die Wissenschaft hat viele Fortschritte gemacht. (科學取得了很多進展。)
+Ziel	
+目標	Unser Ziel ist es, den Umsatz zu steigern. (我們的目標是增加銷售額。)
+zuverlässig	
+可靠的	Er ist ein zuverlässiger Mitarbeiter. (他是一位可靠的員工。)
+absehen	
+預見，預測	Wir können das Ergebnis nicht genau absehen. (我們無法準確預測結果。)
+erforderlich	
+必需的	Es ist erforderlich, dass Sie pünktlich sind. (你準時是必需的。)
+gewährleisten	
+保證	Wir müssen die Qualität der Produkte gewährleisten. (我們必須保證產品的質量。)
+initieren	
+發起	Er initiierte das neue Projekt. (他發起了這個新項目。)
+komplex	
+複雜的	Das Problem ist sehr komplex. (這個問題非常複雜。)
+potenziell	
+潛在的	Es gibt potenziell viele Risiken. (存在潛在的風險。)
+relevant	
+相關的	Diese Informationen sind sehr relevant. (這些信息非常相關。)
+skizzieren	
+畫出，勾畫	Der Architekt skizzierte die Pläne. (建築師勾畫了設計圖。)
+trends	
+趨勢	Die aktuellen Trends in der Mode sind sehr vielfältig. (當前的時尚趨勢非常多樣。)
+überblicken	
+總覽	Wir sollten die Situation insgesamt überblicken. (我們應該全面了解情況。)
+verknüpfen	
+連接	Wir müssen die Daten verknüpfen. (我們需要將數據連接起來。)
+verzögern	
+延遲	Der Flug wurde wegen des Wetters verzögert. (由於天氣原因，航班被延遲了。)
+verzichten	
+放棄	Wir haben auf das zusätzliche Angebot verzichtet. (我們放棄了額外的優惠。)
+während	
+在…期間，當…時	Während der Sitzung gab es viele Fragen. (會議期間有很多問題。)
+zunehmend	
+越來越多	Der Druck auf die Mitarbeiter nimmt zunehmend zu. (對員工的壓力越來越大。)

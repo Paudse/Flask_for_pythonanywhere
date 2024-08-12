@@ -1,0 +1,68 @@
+Abstraktion	
+抽象化	指從具體事物中提取出共同特徵的過程。	Die Abstraktion ist ein wichtiger Schritt in der Mathematik. (抽象化是數學中的一個重要步驟。)
+Anerkennung	
+認可，承認	指對某人或某事的正式認可或承認。	Die Anerkennung seiner Leistungen war überwältigend. (對他成就的認可是壓倒性的。)
+Anpassung	
+調整，適應	指使某物適合新的情況或需求。	Die Anpassung an die neuen Bedingungen war schwierig. (適應新條件很困難。)
+Bedürfnis	
+需求，必要	指某人或某事物所需的東西或條件。	Die Erfüllung der grundlegenden Bedürfnisse ist entscheidend. (滿足基本需求是關鍵。)
+Erkenntnis	
+認識，領悟	指獲得對某事的深刻理解。	Neue Erkenntnisse wurden während der Forschung gewonnen. (在研究過程中獲得了新的領悟。)
+Fähigkeit	
+能力	指某人或某事能夠做到的事情或技能。	Seine Fähigkeit zur Problemlösung ist beeindruckend. (他的問題解決能力令人印象深刻。)
+Gewissen	
+良心	指對道德和倫理的內在感知。	Sein Gewissen ließ ihm keine Ruhe. (他的良心讓他不得安寧。)
+Komplexität	
+複雜性	指事物的複雜程度。	Die Komplexität des Systems stellte eine große Herausforderung dar. (系統的複雜性提出了巨大的挑戰。)
+Konsequenz	
+後果，結果	指行為或事件的結果或影響。	Jede Entscheidung hat ihre Konsequenzen. (每個決定都有其後果。)
+Korrelation	
+相關，關聯	指兩個或多個變量之間的關聯。	Es gibt eine starke Korrelation zwischen den beiden Variablen. (這兩個變量之間有很強的相關性。)
+Kreativität	
+創造力	指創造新想法或解決問題的能力。	Kreativität ist entscheidend für Innovation. (創造力對於創新至關重要。)
+Motivation	
+動機	指驅使某人行動的內在或外在因素。	Er hatte eine starke Motivation, das Projekt abzuschließen. (他有強烈的動機完成這個項目。)
+Nachhaltigkeit	
+可持續性	指長期保持或促進環境和資源的使用。	Nachhaltigkeit ist ein zentrales Thema in der heutigen Wirtschaft. (可持續性是當今經濟中的一個核心問題。)
+Notwendigkeit	
+必要性	指某事物的必需性或必要條件。	Die Notwendigkeit, regelmäßig zu üben, ist offensichtlich. (定期練習的必要性是顯而易見的。)
+Präzision	
+精確性	指精確的程度或精密度。	Die Präzision der Messungen war beeindruckend. (測量的精確性令人印象深刻。)
+Relevanz	
+相關性	指某事物對當前情況的重要性或關聯性。	Die Relevanz der Informationen wurde diskutiert. (信息的相關性被討論了。)
+Resonanz	
+共鳴，回響	指某事物引起的反響或影響。	Die Rede fand große Resonanz beim Publikum. (演講在觀眾中引起了很大的反響。)
+Schwierigkeit	
+難度	指完成某事所需的困難程度。	Die Schwierigkeit des Tests war hoch. (測試的難度很高。)
+Stabilität	
+穩定性	指某物保持穩定的能力或狀態。	Die Stabilität des Systems ist entscheidend für den Betrieb. (系統的穩定性對運營至關重要。)
+Tatsache	
+事實	指客觀存在的事情或現象。	Es ist eine Tatsache, dass die Erde rund ist. (地球是圓的這是一個事實。)
+Verantwortung	
+責任	指對某事的責任或義務。	Jeder trägt Verantwortung für seine Handlungen. (每個人都對自己的行為負責。)
+Voraussetzung	
+前提，條件	指某事物實現所需的條件或要求。	Eine grundlegende Voraussetzung für den Erfolg ist Engagement. (成功的一個基本前提是投入。)
+Wachstum	
+成長，增長	指某物的增長或發展。	Das Wachstum des Unternehmens war beeindruckend. (公司的增長令人印象深刻。)
+Wirkung	
+效果，影響	指某事物的效果或影響力。	Die Wirkung des neuen Medikaments wurde gründlich getestet. (新藥物的效果經過了徹底測試。)
+Zielsetzung	
+目標設定	指設定目標的過程或方法。	Die klare Zielsetzung ist entscheidend für den Erfolg. (明確的目標設定對於成功至關重要。)
+Zusammenhang	
+關聯，背景	指事物之間的關聯或背景。	Der Zusammenhang zwischen den verschiedenen Faktoren wurde analysiert. (對不同因素之間的關聯進行了分析。)
+Aussage	
+陳述，說法	指對某事的說法或陳述。	Die Aussage des Zeugen war entscheidend für den Fall. (證人的陳述對案件至關重要。)
+Erfolg	
+成功	指達成目標或取得的好結果。	Der Erfolg des Projekts wurde gefeiert. (該項目的成功被慶祝了。)
+Funktion	
+功能，作用	指某物的特定功能或作用。	Die Funktion des Geräts wurde erklärt. (該設備的功能被解釋了。)
+Initiative	
+倡議，主動性	指主動提出或實施的計劃或行動。	Die Initiative zur Verbesserung der Arbeitsbedingungen wurde begrüßt. (改善工作條件的倡議受到歡迎。)
+Kritik	
+批評，評價	指對某事物的評價或批評。	Die Kritik an dem neuen Gesetz war überwältigend. (對新法律的批評是壓倒性的。)
+Leistung	
+成就，表現	指某人或某事的表現或達成的成果。	Die Leistung des Teams war außergewöhnlich. (團隊的表現非常出色。)
+Mangel	
+缺乏，缺陷	指某物的不足或缺陷。	Ein Mangel an Ressourcen kann die Qualität beeinträchtigen. (資源不足會影響質量。)
+Perspektive	
+觀點，視角	指對某事的看法或觀點。	Es ist wichtig, verschiedene Perspektiven zu berücksichtigen. (考慮不同的觀點是重要的。)

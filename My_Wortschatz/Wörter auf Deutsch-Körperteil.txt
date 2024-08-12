@@ -1,0 +1,64 @@
+die Ader
+靜脈
+der Arm
+手臂
+das Auge
+眼睛
+der Bauch
+肚子
+das Bein
+腿
+die Brust
+胸
+der Finger
+手指
+der Fuß
+腳
+der Hals
+1. 脖子 2. 喉嚨
+die Hand
+手
+der Körperteil
+身體部位
+das Knie
+膝蓋
+der Knochen
+骨頭
+der Kopf
+頭
+der Körper
+身體
+der Rücken
+背
+die Lunge
+肺
+der Magen
+胃
+die Mandel
+扁桃腺
+der Mund
+嘴
+der Muskel
+肌肉
+die Nase
+鼻子
+der Nerv
+神經
+der Oberschenkel
+大腿
+das Ohr
+耳朵
+das Organ
+器官
+der Po
+屁股
+der Schenkel
+腿
+die Schulter
+肩
+das Skelett
+骨架
+der Unterschenkel
+小腿
+der Zeh
+腳指

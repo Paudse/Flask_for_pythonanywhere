@@ -1,0 +1,52 @@
+Autonom	
+自動駕駛的	Das Fahrzeug ist voll autonom und benötigt keinen Fahrer. (這輛車是全自動駕駛的，不需要駕駛員。)
+Fahrassistenzsystem	
+駕駛輔助系統	Das Fahrassistenzsystem kann den Fahrer unterstützen. (駕駛輔助系統可以協助駕駛員。)
+Sensor	
+感測器	Die Sensoren erfassen die Umgebung des Fahrzeugs. (感測器檢測車輛周圍的環境。)
+Kamera	
+相機	Die Kamera überwacht den Verkehr und die Fahrbahn. (相機監控交通和車道。)
+Radar	
+雷達	Der Radar erkennt Objekte in der Nähe des Fahrzeugs. (雷達能檢測到車輛附近的物體。)
+Lidar	
+激光雷達	Lidar wird verwendet, um präzise 3D-Karten der Umgebung zu erstellen. (激光雷達用於製作環境的精確3D地圖。)
+Algorithmus	
+算法	Der Algorithmus verarbeitet die Sensordaten in Echtzeit. (算法即時處理感測器數據。)
+Navigation	
+導航	Das Navigationssystem plant die beste Route zum Ziel. (導航系統規劃到目的地的最佳路徑。)
+Routenplanung	
+路徑規劃	Die Routenplanung berücksichtigt Verkehr und Straßenbedingungen. (路徑規劃考慮了交通和道路條件。)
+Fahrzeugvernetzung	
+車輛連接	Die Fahrzeugvernetzung ermöglicht die Kommunikation zwischen Fahrzeugen. (車輛連接使車輛之間的通信成為可能。)
+Fahrdynamik	
+行駛動態	Die Fahrdynamik umfasst das Verhalten des Fahrzeugs bei verschiedenen Bedingungen. (行駛動態包括車輛在不同條件下的行為。)
+Kollisionsvermeidung	
+碰撞避免	Die Kollisionsvermeidungssysteme verhindern Unfälle. (碰撞避免系統防止事故發生。)
+Verkehrszeichenerkennung	
+交通標誌識別	Die Verkehrszeichenerkennung identifiziert Verkehrszeichen und deren Bedeutung. (交通標誌識別系統識別交通標誌及其含義。)
+Parkassistent	
+停車輔助系統	Der Parkassistent hilft beim Einparken in enge Lücken. (停車輔助系統幫助在狹窄的空間內停車。)
+Stauassistent	
+塞車輔助系統	Der Stauassistent übernimmt das Fahren im Stau. (塞車輔助系統在交通擁堵時接管駕駛。)
+Autopilot	
+自動駕駛	Der Autopilot kann das Fahrzeug auf der Autobahn steuern. (自動駕駛系統可以在高速公路上控制車輛。)
+Fahrzeugsteuerung	
+車輛控制	Die Fahrzeugsteuerung umfasst alle Systeme zur Regelung der Fahrzeugbewegungen. (車輛控制包括所有調節車輛運動的系統。)
+Notbremsung	
+緊急制動	Die Notbremsung wird automatisch ausgelöst, wenn ein Hindernis erkannt wird. (當檢測到障礙物時，緊急制動會自動啟動。)
+Systemintegrität	
+系統完整性	Die Systemintegrität ist entscheidend für die Sicherheit des autonomen Fahrzeugs. (系統完整性對自動駕駛車輛的安全至關重要。)
+Umfeldüberwachung	
+環境監控	Die Umfeldüberwachung stellt sicher, dass das Fahrzeug alle relevanten Informationen erhält. (環境監控確保車輛獲取所有相關信息。)
+Situationsbewusstsein	
+情況感知	Das Situationsbewusstsein hilft dem Fahrzeug, die Verkehrslage richtig einzuschätzen. (情況感知幫助車輛正確評估交通情況。)
+Fahrverhalten	
+行駛行為	Das Fahrverhalten des autonomen Fahrzeugs wird kontinuierlich überwacht. (自動駕駛車輛的行駛行為會持續監控。)
+Fehlermeldung	
+故障報警	Bei einer Fehlermeldung muss das Fahrzeug überprüft werden. (出現故障報警時，車輛需檢查。)
+Künstliche Intelligenz	
+人工智能	Künstliche Intelligenz wird verwendet, um das Fahrzeug zu trainieren. (人工智能用於訓練車輛。)
+Betriebsmodus	
+操作模式	Der Betriebsmodus des Fahrzeugs kann zwischen manuell und autonom wechseln. (車輛的操作模式可以在手動和自動之間切換。)
+Fahrzeugdiagnose	
+車輛診斷	Die Fahrzeugdiagnose überprüft den Zustand aller Systeme. (車輛診斷檢查所有系統的狀況。)

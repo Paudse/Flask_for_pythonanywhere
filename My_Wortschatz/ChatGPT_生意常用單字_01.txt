@@ -1,0 +1,66 @@
+Firma	
+公司	Unsere Firma ist seit 10 Jahren im Geschäft. (我們公司已經經營了10年。)
+Unternehmen	
+企業，商業	Das Unternehmen expandiert in neue Märkte. (該企業正在擴展到新市場。)
+Geschäft	
+商業，生意	Wir haben ein Geschäft in der Innenstadt. (我們在市中心有一家商店。)
+Abteilung	
+部門	Die Abteilung für Finanzen ist im oberen Stockwerk. (財務部門在樓上。)
+Mitarbeiter	
+員工	Unser Team besteht aus 20 Mitarbeitern. (我們的團隊由20名員工組成。)
+Chef	
+老闆	Der Chef ist gerade im Meeting. (老闆正在開會。)
+Kunde	
+客戶	Der Kunde hat eine Beschwerde eingereicht. (客戶提出了投訴。)
+Lieferant	
+供應商	Wir haben einen neuen Lieferanten gefunden. (我們找到了一個新供應商。)
+Vertrag	
+合約	Der Vertrag muss bis Ende des Monats unterschrieben werden. (合約必須在月底前簽署。)
+Rechnung	
+發票	Bitte senden Sie mir die Rechnung für den Kauf. (請寄給我這筆購買的發票。)
+Zahlung	
+付款	Die Zahlung erfolgt innerhalb von 30 Tagen. (付款在30天內完成。)
+Bestellung	
+訂單	Ihre Bestellung wird in Kürze bearbeitet. (您的訂單將很快處理。)
+Angebot	
+報價，優惠	Wir haben Ihnen ein Angebot für die Dienstleistungen gemacht. (我們已經給您提供了服務報價。)
+Preis	
+價格	Der Preis für dieses Produkt ist hoch. (這個產品的價格很高。)
+Kosten	
+成本	Die Kosten für das Projekt sind gestiegen. (項目的成本上升了。)
+Gewinn	
+利潤	Der Gewinn des Unternehmens ist im letzten Jahr gestiegen. (公司的利潤在去年增加了。)
+Verlust	
+虧損	Das Unternehmen hat im letzten Quartal einen Verlust gemacht. (公司在上一季度虧損了。)
+Marketing	
+市場營銷	Die Marketingabteilung plant eine neue Kampagne. (市場營銷部門正在策劃一個新活動。)
+Verkauf	
+銷售	Der Verkauf der neuen Produkte läuft gut. (新產品的銷售情況良好。)
+Kalkulation	
+計算，預算	Die Kalkulation des Budgets ist abgeschlossen. (預算計算已完成。)
+Projekt	
+項目	Wir starten ein neues Projekt im nächsten Monat. (我們下個月開始一個新項目。)
+Bericht	
+報告	Der Bericht muss bis Freitag eingereicht werden. (報告必須在星期五前提交。)
+Meeting	
+會議	Das Meeting findet um 10 Uhr statt. (會議在10點鐘舉行。)
+Präsentation	
+演示，簡報	Ich bereite eine Präsentation für die Konferenz vor. (我正在為會議準備簡報。)
+Verhandlung	
+談判	Die Verhandlungen über den Vertrag sind erfolgreich abgeschlossen. (關於合約的談判已經成功結束。)
+Einkauf	
+購買	Wir müssen neue Ausrüstung einkaufen. (我們需要購買新的設備。)
+Lieferung	
+送貨，配送	Die Lieferung erfolgt innerhalb von zwei Wochen. (配送在兩週內完成。)
+Forschung	
+研究	Die Forschung zeigt vielversprechende Ergebnisse. (研究顯示出有希望的結果。)
+Entwicklung	
+開發	Die Entwicklung des neuen Produkts hat begonnen. (新產品的開發已經開始。)
+Buchhaltung	
+會計	Die Buchhaltung überprüft alle finanziellen Transaktionen. (會計部門檢查所有財務交易。)
+Risiko	
+風險	Wir müssen die Risiken des Projekts bewerten. (我們需要評估項目的風險。)
+Strategie	
+策略	Wir müssen unsere Strategie anpassen. (我們需要調整我們的策略。)
+Ziel	
+目標	Unser Ziel ist es, den Umsatz zu steigern. (我們的目標是提高銷售額。)

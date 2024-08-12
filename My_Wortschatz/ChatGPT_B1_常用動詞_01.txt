@@ -1,0 +1,80 @@
+abholen	
+取，接	Ich werde dich um 18 Uhr abholen. (我會在18點接你。)
+erklären	
+解釋	Der Lehrer erklärte die Aufgabe. (老師解釋了這個任務。)
+verstehen	
+理解	Ich verstehe das Problem nicht. (我不理解這個問題。)
+vergleichen	
+比較	Wir sollten die beiden Angebote vergleichen. (我們應該比較這兩個報價。)
+erfahren	
+得知，經歷	Er hat viel über die Kultur erfahren. (他對這個文化了解很多。)
+erinnern	
+記得，提醒	Kannst du mich bitte daran erinnern? (你能提醒我一下嗎？)
+vorstellen	
+介紹，想像	Ich möchte dir meinen Freund vorstellen. (我想介紹我的朋友給你。)
+planen	
+計劃	Wir planen eine Reise nach Italien. (我們計劃去意大利旅行。)
+beteiligen	
+參與	Er beteiligte sich aktiv am Projekt. (他積極參與了這個項目。)
+überlegen	
+考慮	Ich muss mir das noch einmal überlegen. (我需要再考慮一下。)
+behaupten	
+主張	Er behauptet, dass er recht hat. (他主張他是對的。)
+aufhören	
+停止	Ich werde bald mit dem Rauchen aufhören. (我將很快停止吸煙。)
+bestätigen	
+確認	Bitte bestätigen Sie Ihre Teilnahme. (請確認您的參加。)
+anbieten	
+提供	Wir bieten verschiedene Dienstleistungen an. (我們提供各種服務。)
+benutzen	
+使用	Er benutzt das Internet für seine Recherchen. (他使用互聯網進行研究。)
+durchführen	
+執行，實施	Der Test wurde erfolgreich durchgeführt. (測試成功地進行了。)
+erlauben	
+允許	Die Regeln erlauben keine Ausnahmen. (規則不允許任何例外。)
+verbessern	
+改善	Wir arbeiten daran, unseren Service zu verbessern. (我們致力於改善我們的服務。)
+warten	
+等待	Ich warte auf deinen Anruf. (我在等你的電話。)
+zeigen	
+展示，顯示	Er zeigte mir die neuen Ergebnisse. (他給我展示了新的結果。)
+abgeben	
+提交，交出	Bitte geben Sie Ihre Bewerbung bis Freitag ab. (請在星期五之前提交您的申請。)
+erreichen	
+達到	Wir haben unser Ziel erreicht. (我們達到了我們的目標。)
+kaufen	
+購買	Ich habe ein neues Auto gekauft. (我買了一輛新車。)
+entscheiden	
+決定	Ich habe mich für das Angebot entschieden. (我決定接受這個報價。)
+entwickeln	
+開發，發展	Wir entwickeln ein neues Produkt. (我們正在開發一個新產品。)
+informieren	
+通知，告知	Sie informierte uns über die Änderungen. (她告知我們變更的情況。)
+rechnen	
+計算	Ich rechne die Kosten zusammen. (我在計算成本。)
+suchen	
+搜索，尋找	Ich suche nach einer Lösung. (我在尋找解決方案。)
+diskutieren	
+討論	Wir diskutieren das Thema ausführlich. (我們詳細討論了這個主題。)
+erlauben	
+允許	Die Regeln erlauben keine Ausnahmen. (規則不允許任何例外。)
+fragen	
+問，詢問	Er fragte nach dem Weg. (他詢問了路線。)
+hilfen	
+幫助	Kannst du mir bitte helfen? (你能幫助我嗎？)
+kennen	
+認識，知道	Ich kenne diese Person schon lange. (我已經認識這個人很久了。)
+lehren	
+教導	Der Professor lehrt Wirtschaft. (教授教經濟學。)
+meinen	
+認為	Ich meine, dass es eine gute Idee ist. (我認為這是一個好主意。)
+sehen	
+看見	Ich sehe die Veränderungen. (我看到了變化。)
+versuchen	
+嘗試	Wir versuchen, das Problem zu lösen. (我們嘗試解決這個問題。)
+vorbereiten	
+準備	Ich bereite mich auf die Prüfung vor. (我在準備考試。)
+versprechen	
+承諾	Er versprach, pünktlich zu sein. (他承諾會準時。)
+zusammenarbeiten	
+合作	Wir arbeiten gerne mit Ihnen zusammen. (我們很樂意與您合作。)

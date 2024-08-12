@@ -1,0 +1,60 @@
+Reise	
+旅行	Die Reise nach Berlin war sehr interessant. (到柏林的旅行非常有趣。)
+Hotel	
+酒店	Wir haben ein schönes Hotel in der Innenstadt gebucht. (我們訂了一家市中心的漂亮酒店。)
+Zimmer	
+房間	Das Zimmer im Hotel war sehr komfortabel. (酒店的房間非常舒適。)
+Buchung	
+預訂	Ich habe die Buchung für das Hotelzimmer online gemacht. (我在網上預訂了酒店房間。)
+Flughafen	
+機場	Der Flughafen ist etwa 30 Kilometer vom Stadtzentrum entfernt. (機場距市中心約30公里。)
+Abflug	
+起飛	Der Abflug ist um 10 Uhr morgens. (起飛時間是早上10點。)
+Ankunft	
+到達	Die Ankunft des Flugzeugs war pünktlich. (飛機的到達是準時的。)
+Pass	
+護照	Vergiss nicht, deinen Pass mitzunehmen. (別忘了帶上你的護照。)
+Visum	
+簽證	Für diese Reise benötigst du ein Visum. (這次旅行你需要一個簽證。)
+Gepäck	
+行李	Das Gepäck wurde am Flughafen überprüft. (行李在機場檢查了。)
+Koffer	
+行李箱	Ich habe meinen Koffer am Gepäckband abgeholt. (我在行李傳送帶上拿到了我的行李箱。)
+Reiseführer	
+旅遊指南	Der Reiseführer enthält viele nützliche Informationen über die Stadt. (旅遊指南包含了很多關於城市的有用信息。)
+Ticket	
+票	Wir haben die Tickets für die Stadtrundfahrt bereits gekauft. (我們已經買好了城市觀光的票。)
+Rückkehr	
+返回	Die Rückkehr nach Hause erfolgt am Sonntag. (回家的時間是星期天。)
+Sightseeing	
+觀光	Sightseeing in Paris ist ein unvergessliches Erlebnis. (在巴黎觀光是一次難忘的經歷。)
+Führer	
+導遊	Der Führer zeigte uns die wichtigsten Sehenswürdigkeiten. (導遊向我們展示了主要的旅遊景點。)
+Reiseversicherung	
+旅行保險	Eine Reiseversicherung ist für jede Reise empfehlenswert. (旅行保險對於每次旅行都是推薦的。)
+Währung	
+貨幣	In Europa wird der Euro als Währung verwendet. (在歐洲使用歐元作為貨幣。)
+Wechselkurs	
+匯率	Der Wechselkurs für Dollar zu Euro ist heute günstig. (今天美元對歐元的匯率很優惠。)
+Rucksack	
+背包	Für die Wanderung brauchst du einen guten Rucksack. (你需要一個好的背包去徒步旅行。)
+Straßenkarte	
+地圖	Die Straßenkarte hilft uns, uns in der Stadt zurechtzufinden. (地圖幫助我們在城市中找到方向。)
+Restaurant	
+餐廳	Das Restaurant bietet eine große Auswahl an internationalen Gerichten. (這家餐廳提供大量國際菜餚。)
+Menü	
+菜單	Das Menü des Restaurants ist sehr abwechslungsreich. (餐廳的菜單非常多樣化。)
+Reservierung	
+預約	Wir haben eine Reservierung für das Abendessen gemacht. (我們已經為晚餐做了預約。)
+Ausflug	
+短途旅行	Der Ausflug zum Nationalpark war sehr schön. (去國家公園的短途旅行非常愉快。)
+Karte	
+卡片	Die Karte zeigt alle wichtigen Sehenswürdigkeiten der Stadt. (這張卡片顯示了城市中所有重要的旅遊景點。)
+Eintrittskarte	
+入場券	Die Eintrittskarte für das Museum kostet 10 Euro. (博物館的入場券價格是10歐元。)
+Reiseleitung	
+旅行領隊	Die Reiseleitung sorgte für einen reibungslosen Ablauf der Reise. (旅行領隊確保了旅行的順利進行。)
+Berg	
+山	Wir planen eine Wanderung in den Bergen. (我們計劃在山中徒步旅行。)
+Strand	
+海灘	Der Strand war sauber und das Wasser war kristallklar. (海灘很乾淨，水很清澈。)

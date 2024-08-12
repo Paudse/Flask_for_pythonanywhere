@@ -1,0 +1,76 @@
+abstrahieren	
+抽象化	Es ist wichtig, die Kernpunkte zu abstrahieren. (抽象化核心要點是重要的。)
+adäquat	
+適當的	Eine adäquate Antwort auf die Frage wurde gegeben. (對問題給出了適當的回答。)
+anmaßend	
+自以為是的，傲慢的	Sein Verhalten wurde als anmaßend empfunden. (他的行為被認為是傲慢的。)
+ausgewogen	
+平衡的	Eine ausgewogene Ernährung ist wichtig für die Gesundheit. (均衡飲食對健康很重要。)
+besonders	
+特別的	Diese Situation erfordert eine besondere Aufmerksamkeit. (這種情況需要特別的注意。)
+differenzieren	
+區分，區別	Es ist schwierig, zwischen den beiden Konzepten zu differenzieren. (區分這兩個概念很困難。)
+diskret	
+禮貌的，謹慎的	Er war sehr diskret und hat keine Details weitergegeben. (他非常謹慎，沒有透露任何細節。)
+einleuchtend	
+明白易懂的	Seine Argumente waren einleuchtend und überzeugend. (他的論點明白易懂且令人信服。)
+eminent	
+卓越的	Er ist ein eminenter Wissenschaftler auf seinem Gebiet. (他是該領域的卓越科學家。)
+evaluieren	
+評估，評價	Wir müssen die Ergebnisse der Studie evaluieren. (我們需要評估研究結果。)
+explizit	
+明確的	Die Anforderungen wurden explizit formuliert. (要求被明確地表達出來。)
+hypothetisch	
+假設的	Die Theorie basiert auf hypothetischen Annahmen. (該理論基於假設性假設。)
+inhärent	
+內在的	Das Risiko ist inhärent in diesem Prozess. (這個過程中固有的風險。)
+konzeptionell	
+概念上的	Der Plan wurde auf konzeptioneller Ebene entwickelt. (該計劃是在概念層面上制定的。)
+marginal	
+邊緣的，微小的	Die Änderungen haben nur marginale Auswirkungen. (這些變化只有微小的影響。)
+reflektieren	
+反映，考慮	Wir sollten über die Ergebnisse reflektieren. (我們應該考慮一下結果。)
+repräsentativ	
+具有代表性的	Die Studie liefert repräsentative Daten. (該研究提供了具有代表性數據。)
+sachlich	
+客觀的，實質的	Die Diskussion sollte sachlich bleiben. (討論應該保持客觀。)
+systematisch	
+系統的	Der Ansatz ist systematisch und methodisch. (這種方法是系統性和方法論的。)
+tendenziell	
+傾向性的	Tendenziell zeigen die Daten einen Anstieg. (數據顯示出有上升的趨勢。)
+übergreifend	
+跨領域的	Die Forschung hat einen übergreifenden Ansatz. (該研究具有跨領域的視角。)
+vergleichbar	
+可比擬的	Die Ergebnisse sind mit denen aus anderen Studien vergleichbar. (結果可以與其他研究的結果相比。)
+veritabel	
+真實的	Der Erfolg war ein veritabler Durchbruch. (這個成功是一次真正的突破。)
+vermeiden	
+避免	Wir sollten Fehler im Vorfeld vermeiden. (我們應該在前期避免錯誤。)
+vertreten	
+代表	Der Anwalt vertritt die Interessen seines Klienten. (律師代表他的客戶的利益。)
+vorausschauend	
+預見的	Ein vorausschauender Plan ist wichtig für den Erfolg. (預見性的計劃對成功至關重要。)
+widerspiegeln	
+反映	Die Ergebnisse widerspiegeln die aktuelle Lage. (結果反映了當前的情況。)
+zielen	
+針對，目標	Die Maßnahmen zielen darauf ab, die Effizienz zu erhöhen. (這些措施旨在提高效率。)
+zunehmend	
+越來越多的	Die Probleme wurden zunehmend komplexer. (問題變得越來越複雜。)
+abstrakt	
+抽象的	Der Begriff ist zu abstrakt, um ihn klar zu verstehen. (這個概念太抽象，無法清楚理解。)
+eigenständig	
+獨立的	Die Forscher arbeiten eigenständig an ihren Projekten. (研究人員獨立地工作於他們的項目。)
+fundamental	
+基本的	Das Verständnis der Grundlagen ist fundamental. (對基礎知識的理解是基本的。)
+komplementär	
+補充的	Die beiden Ansätze sind komplementär zueinander. (這兩種方法是互補的。)
+multidimensional	
+多維的	Die Analyse ist multidimensional. (分析是多維的。)
+philosophisch	
+哲學的	Die Diskussion hat einen philosophischen Charakter. (討論具有哲學性質。)
+pragmatisch	
+實用的	Wir müssen eine pragmatische Lösung finden. (我們需要找到一個實用的解決方案。)
+subjektiv	
+主觀的	Die Bewertung war stark subjektiv. (評價高度主觀。)
+transzendent	
+超越的	Das Konzept ist transzendent und übersteigt einfache Definitionen. (該概念是超越的，超出了簡單的定義。)

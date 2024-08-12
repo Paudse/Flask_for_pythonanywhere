@@ -1,0 +1,54 @@
+Zahl	
+數字	Die Zahl 5 ist eine natürliche Zahl. (數字5是一個自然數。)
+Addition	
+加法	Die Addition von 3 und 4 ergibt 7. (3加4等於7。)
+Subtraktion	
+減法	Bei der Subtraktion von 8 minus 5 erhält man 3. (8減5等於3。)
+Multiplikation	
+乘法	6 mal 7 ergibt 42. (6乘7等於42。)
+Division	
+除法	Die Division von 20 durch 4 ergibt 5. (20除以4等於5。)
+Bruch	
+分數	Der Bruch 1/2 ist die Hälfte von 1. (分數1/2是1的一半。)
+Prozent	
+百分比	20 Prozent von 100 ist 20. (100的20百分比是20。)
+Wurzel	
+根號	Die Wurzel aus 16 ist 4. (16的平方根是4。)
+Exponent	
+指數	Der Exponent in 2^3 ist 3. (2的指數是3。)
+Gleichung	
+方程	Eine Gleichung ist eine mathematische Aussage. (方程是一個數學語句。)
+Unbekannte	
+未知數	Die Unbekannte x muss in der Gleichung gefunden werden. (未知數x必須在方程中找到。)
+Funktion	
+函數	Eine Funktion ordnet jedem x-Wert einen y-Wert zu. (函數將每個x值對應到一個y值。)
+Graph	
+圖形	Der Graph der Funktion zeigt die Beziehung zwischen x und y. (函數的圖形顯示了x和y之間的關係。)
+Ableitung	
+導數	Die Ableitung einer Funktion gibt die Steigung der Tangente an. (函數的導數給出切線的斜率。)
+Integral	
+積分	Das Integral wird zur Berechnung der Fläche unter einer Kurve verwendet. (積分用於計算曲線下的面積。)
+Matrix	
+矩陣	Eine Matrix ist eine rechteckige Anordnung von Zahlen. (矩陣是一種矩形排列的數字。)
+Determinante	
+行列式	Die Determinante einer Matrix wird zur Lösung von Gleichungssystemen verwendet. (矩陣的行列式用於解決方程組。)
+Vektor	
+向量	Ein Vektor hat sowohl eine Richtung als auch eine Länge. (向量具有方向和長度。)
+Skalar	
+標量	Ein Skalar ist eine einzelne Zahl ohne Richtung. (標量是一個沒有方向的單一數字。)
+Differential	
+微分	Das Differential einer Funktion beschreibt die Änderung einer Variable. (函數的微分描述變量的變化。)
+Koordinaten	
+座標	Die Koordinaten eines Punktes geben seine Position im Raum an. (點的座標表示其在空間中的位置。)
+Geometrie	
+幾何學	Die Geometrie beschäftigt sich mit Formen und Größen von Objekten. (幾何學研究物體的形狀和大小。)
+Trigonometrie	
+三角學	Die Trigonometrie untersucht die Beziehungen zwischen den Winkeln und Seiten eines Dreiecks. (三角學研究三角形的角度和邊之間的關係。)
+Zahlenreihe	
+數列	Eine Zahlenreihe ist eine Folge von Zahlen in einer bestimmten Ordnung. (數列是一系列按特定順序排列的數字。)
+Kombinatorik	
+組合學	Die Kombinatorik befasst sich mit der Anzahl von Möglichkeiten zur Auswahl von Objekten. (組合學涉及選擇物體的方式數量。)
+Algorithmus	
+算法	Ein Algorithmus ist eine Schritt-für-Schritt-Anleitung zur Lösung eines Problems. (算法是解決問題的逐步指導。)
+Wahrscheinlichkeit	
+機率	Die Wahrscheinlichkeit beschreibt die Chance, dass ein Ereignis eintritt. (機率描述事件發生的機會。)

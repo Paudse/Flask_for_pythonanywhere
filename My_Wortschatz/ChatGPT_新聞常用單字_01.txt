@@ -1,0 +1,68 @@
+Bericht	
+報導	Der Bericht über die Ereignisse wurde veröffentlicht. (關於事件的報導已經發布。)
+Ereignis	
+事件	Das Ereignis zog viele Zuschauer an. (這個事件吸引了很多觀眾。)
+Nachricht	
+消息，新聞	Die Nachricht über den Präsidenten war überraschend. (關於總統的消息令人驚訝。)
+Journalist	
+記者	Der Journalist interviewte mehrere Zeugen. (記者採訪了多位證人。)
+Interview	
+採訪	Das Interview mit dem Politiker war sehr informativ. (與政治家的採訪非常有資訊量。)
+Titel	
+標題	Der Titel des Artikels war provokant. (文章的標題很具挑釁性。)
+Artikel	
+文章	Der Artikel behandelt die neuesten Entwicklungen. (這篇文章討論了最新的發展。)
+Redaktion	
+編輯部	Die Redaktion arbeitet an der letzten Überarbeitung. (編輯部正在進行最後的修改。)
+Forschung	
+研究	Die Forschung zeigt neue Trends auf. (研究顯示出新的趨勢。)
+Analyse	
+分析	Die Analyse der Daten ist abgeschlossen. (數據分析已經完成。)
+Headline	
+頭條	Die Headline war in großen Buchstaben geschrieben. (頭條用大字寫成。)
+Pressesprecher	
+發言人	Der Pressesprecher gab eine Erklärung ab. (發言人發表了一份聲明。)
+Meldung	
+報告，消息	Die Meldung über den Unfall kam gerade rein. (關於事故的消息剛剛傳來。)
+Publikum	
+觀眾，讀者	Das Publikum reagierte begeistert auf die Neuigkeiten. (觀眾對消息的反應非常熱情。)
+Thema	
+主題	Das Thema des Beitrags war Umweltschutz. (這篇文章的主題是環保。)
+Kommentar	
+評論	Der Kommentar zum Artikel war sehr kritisch. (對文章的評論非常批評。)
+Hintergrund	
+背景	Der Hintergrund der Krise wurde ausführlich erläutert. (危機的背景被詳細解釋了。)
+Wirtschaft	
+經濟	Die Wirtschaft zeigt Anzeichen von Erholung. (經濟顯示出復甦的跡象。)
+Politik	
+政治	Die Politik der Regierung wird analysiert. (政府的政策正在被分析。)
+Gesellschaft	
+社會	Die Gesellschaft reagiert auf die neuen Gesetzesänderungen. (社會對新的法律變更作出了反應。)
+Krise	
+危機	Die Krise beeinflusste viele Unternehmen. (危機影響了許多公司。)
+Situation	
+情況	Die Situation vor Ort war angespannt. (當地的情況很緊張。)
+Reform	
+改革	Die Reform soll das Bildungssystem verbessern. (這次改革旨在改善教育體系。)
+Verhandlung	
+談判	Die Verhandlung über den Vertrag war erfolgreich. (關於合同的談判很成功。)
+Entwicklung	
+發展	Die Entwicklung der Technologie ist rasant. (技術的發展很快。)
+Konflikt	
+衝突	Der Konflikt zwischen den Parteien eskalierte. (各方之間的衝突加劇了。)
+Gesetz	
+法律，法規	Das neue Gesetz tritt nächsten Monat in Kraft. (新法律將於下月生效。)
+Aussage	
+陳述，聲明	Die Aussage des Zeugen war entscheidend. (證人的陳述是關鍵的。)
+Analyse	
+分析	Eine detaillierte Analyse ist erforderlich. (需要進行詳細的分析。)
+Zusammenfassung	
+總結	Die Zusammenfassung des Berichts bietet einen Überblick. (報告的總結提供了概述。)
+Standpunkt	
+立場	Der Standpunkt des Autors ist klar. (作者的立場很明確。)
+Wahl	
+選舉	Die Wahl findet nächsten Sonntag statt. (選舉將於下週日舉行。)
+Veröffentlichung	
+發布	Die Veröffentlichung des neuen Buches wird erwartet. (新書的發布受到期待。)
+Fakt	
+事實	Die Fakten des Berichts wurden überprüft. (報告的事實已經過核實。)

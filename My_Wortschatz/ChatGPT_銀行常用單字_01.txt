@@ -1,0 +1,54 @@
+Konto	
+帳戶	Ich möchte ein neues Konto eröffnen. (我想開一個新帳戶。)
+Girokonto	
+活期存款帳戶	Das Girokonto ermöglicht tägliche Transaktionen. (活期存款帳戶允許日常交易。)
+Sparkonto	
+定期存款帳戶	Ich lege mein Geld auf ein Sparkonto an. (我把錢存入定期存款帳戶。)
+Kreditkarte	
+信用卡	Ich habe meine Kreditkarte verloren. (我丟了我的信用卡。)
+EC-Karte	
+借記卡	Kann ich mit meiner EC-Karte bezahlen? (我可以用借記卡支付嗎？)
+Überweisung	
+轉帳	Ich möchte eine Überweisung tätigen. (我想進行一筆轉帳。)
+Einzahlung	
+存款	Die Einzahlung auf mein Konto ist erfolgt. (我的帳戶已經存入款項。)
+Abhebung	提
+款	Die Abhebung von Geld am Automaten funktioniert problemlos. (在自動取款機上提取現金運行正常。)
+Kontostand	
+帳戶餘額	Wie hoch ist mein aktueller Kontostand? (我目前的帳戶餘額是多少？)
+Bargeld	
+現金	Ich brauche Bargeld für den Einkauf. (我需要現金來購物。)
+Zinsen	
+利息	Die Zinsen auf meinem Sparkonto sind gestiegen. (我定期存款帳戶上的利息上升了。)
+Kredit	
+信貸	Ich habe einen Kredit bei der Bank aufgenommen. (我在銀行申請了一筆貸款。)
+Kreditantrag	
+貸款申請	Ich habe einen Kreditantrag gestellt. (我已提交了貸款申請。)
+Ratenzahlung	
+分期付款	Der Kauf wird in Ratenzahlung abgerechnet. (購買將分期付款。)
+Guthaben	
+餘額	Mein Konto zeigt ein positives Guthaben an. (我的帳戶顯示正餘額。)
+Scheck	
+支票	Ich möchte diesen Scheck einzahlen. (我想存入這張支票。)
+Depot	
+保管箱，證券帳戶	Mein Depot enthält mehrere Aktien. (我的證券帳戶包含幾支股票。)
+Zahlung	
+付款	Die Zahlung erfolgt per Überweisung. (付款通過轉帳進行。)
+Kontoauszug	
+帳戶對帳單	Bitte senden Sie mir einen Kontoauszug zu. (請給我寄一份帳戶對帳單。)
+Buchung	
+記錄	Die Buchung der Transaktion ist noch nicht erfolgt. (交易的記錄尚未完成。)
+Bankomat	
+自動取款機	Ich werde am Bankomat Geld abheben. (我打算在自動取款機上提取現金。)
+Filiale	
+分行	Ich gehe zur nächsten Filiale der Bank. (我去最近的銀行分行。)
+Beratung	
+諮詢	Ich brauche eine Beratung für mein Konto. (我需要對我的帳戶進行諮詢。)
+Sicherheitscode	安
+全碼	Geben Sie bitte Ihren Sicherheitscode ein. (請輸入您的安全碼。)
+Kundendienst	
+客戶服務	Der Kundendienst kann Ihnen bei weiteren Fragen helfen. (客戶服務可以幫助您解答其他問題。)
+Kontoinhaber	
+帳戶持有人	Der Kontoinhaber muss persönlich erscheinen. (帳戶持有人必須親自到場。)
+Lastschrift	
+自動扣款	Die Lastschrift wird monatlich von meinem Konto abgebucht. (自動扣款每月從我的帳戶中扣除。)

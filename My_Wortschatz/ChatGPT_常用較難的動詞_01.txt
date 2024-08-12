@@ -1,0 +1,60 @@
+absehen	
+預見	指預見或預測某事，通常用於未來的情境。	Er konnte die Konsequenzen seines Handelns nicht absehen. (他無法預見自己行為的後果。)
+anfechten	
+申訴，挑戰	指對決定或判斷提出異議或質疑。	Die Entscheidung des Gerichts wurde angefochten. (法院的決定被提出了申訴。)
+auslösen	
+引發，觸發	指引起某事的發生或某種反應。	Der Alarm wurde durch den Rauch ausgelöst. (警報被煙霧引發了。)
+befürworten	
+支持，提倡	指支持或推薦某種行為或觀點。	Viele Experten befürworten die Einführung neuer Technologien. (許多專家支持引入新技術。)
+darbieten	
+提供，展示	指提供或展示某物，常用於表演或展示。	Der Künstler bot ein beeindruckendes Stück dar. (藝術家展示了一個令人印象深刻的作品。)
+durchsetzen	
+實施，推行	指成功推行或實施某種計劃或規範。	Er konnte seine Vorschläge erfolgreich durchsetzen. (他成功地推行了他的建議。)
+erläutern	
+解釋，闡明	指詳細解釋或闡明某個概念或觀點。	Der Professor erläuterte die komplexe Theorie ausführlich. (教授詳細解釋了複雜的理論。)
+erwidern	
+回應，反駁	指對提問或評論做出回應或反駁。	Sie erwiderte auf seine Fragen sehr sachlich. (她對他的問題做出了非常客觀的回應。)
+gestalten	
+設計，塑造	指設計或塑造某物的外觀或結構。	Die Designer gestalteten das neue Logo kreativ. (設計師們創意地設計了新標誌。)
+hervorheben	
+強調，突出	指強調某個重要的點或特徵。	Der Redner hob die wichtigsten Punkte seiner Rede hervor. (演講者突出了演講中的重點。)
+konnexieren	
+連接，關聯	指將不同的事物或概念連接或關聯起來。	Die Datenkonzepte wurden miteinander konnexiert. (數據概念被連接在一起。)
+nachvollziehen	
+理解，追溯	指理解或追蹤某事的過程或原因。	Er konnte den Gedankengang des Autors nachvollziehen. (他能理解作者的思路。)
+sicherstellen	
+確保	指確保某事的實現或保持某種狀況。	Der Qualitätsmanager stellte die Einhaltung der Normen sicher. (質量經理確保了標準的遵守。)
+überprüfen	
+檢查，核實	指檢查或核實某事的準確性或完整性。	Die Ingenieure überprüften die Sicherheitsprotokolle. (工程師們檢查了安全協議。)
+unterstützen	
+支持，幫助	指支持或幫助某人或某事。	Der Staat unterstützt kleine Unternehmen finanziell. (國家在財務上支持小企業。)
+veranlassen	
+使得，促使	指促使或引起某種行為或反應。	Der Vorfall veranlasste eine Untersuchung. (事件促使了調查。)
+verhindern	
+防止，阻止	指防止某事的發生或阻止某人做某事。	Sicherheitsmaßnahmen verhindern Unfälle. (安全措施防止事故發生。)
+verstehen	
+理解	指理解或明白某事的意義或內容。	Er versteht die komplexen Zusammenhänge gut. (他很好地理解了複雜的關聯。)
+vorsehen	
+規劃，安排	指規劃或安排某事的具體內容。	Der Plan sieht regelmäßige Überprüfungen vor. (計劃規劃了定期檢查。)
+widerlegen	
+駁斥	指駁斥或反駁某個說法或理論。	Er konnte die Argumente des Gegners widerlegen. (他能駁斥對手的論點。)
+zuordnen	
+分配，歸類	指將某物或某人分配或歸類到某個類別。	Die Aufgaben wurden den jeweiligen Teams zugeordnet. (任務被分配給了各自的團隊。)
+zulassen	
+允許，准許	指允許某事發生或某人進入某個地方。	Der Sicherheitsdienst ließ nur autorisierte Personen hinein. (安保人員只允許授權人員進入。)
+belegen	
+證明，證實	指提供證據或資料以證明某事。	Die Studie belegt den Erfolg der neuen Methode. (該研究證明了新方法的成功。)
+bestrafen	
+處罰	指對某人的不當行為進行處罰。	Er wurde für seine Vergehen bestraft. (他因違法行為而被處罰。)
+einordnen	
+分類，排序	指將某物或某事按類別或級別進行分類。	Die Daten wurden nach Relevanz eingeordnet. (數據按相關性進行了分類。)
+erlangen	
+獲得，取得	指獲得某物或達到某個目標。	Erlangte Fähigkeiten können im Beruf nützlich sein. (獲得的技能在職業中可能有用。)
+hervorgehen	
+顯示，結果	指顯示出來或從某事中得出結果。	Die Studie geht hervor, dass das Medikament wirksam ist. (研究顯示該藥物有效。)
+misslingen	
+失敗	指事情未能如預期進行或達到預期目標。	Das Experiment misslang trotz intensiver Vorbereitung. (儘管準備充分，實驗仍然失敗了。)
+veranlassen	
+促使	指促使或引起某種行為或變化。	Der Erfolg des Projekts veranlasste weitere Investitionen. (項目的成功促使了更多的投資。)
+versäumen	
+忽略，疏忽	指因為不注意而未完成某事。	Er versäumte es, die Frist einzuhalten. (他忽略了遵守截止日期。)

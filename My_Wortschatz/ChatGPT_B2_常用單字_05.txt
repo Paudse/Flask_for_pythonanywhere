@@ -1,0 +1,70 @@
+absolvieren	
+完成，畢業	Er hat sein Studium erfolgreich absolviert. (他成功完成了學業。)
+akzeptieren	
+接受	Wir müssen die Bedingungen akzeptieren. (我們必須接受這些條件。)
+aufbauen	
+建立，構建	Wir müssen ein neues System aufbauen. (我們需要建立一個新系統。)
+bedeuten	
+意味著	Was bedeutet dieses Wort? (這個詞意味著什麼？)
+behaupten	
+主張	Er behauptet, dass er die Lösung kennt. (他主張自己知道解決方案。)
+bewerben	
+申請	Sie bewirbt sich um eine Stelle als Projektmanagerin. (她申請了一個項目經理的職位。)
+durchsetzen	
+推動，實施	Wir müssen unsere Vorschläge durchsetzen. (我們必須推動我們的建議。)
+eindeutig	
+明確的	Die Anweisung ist eindeutig. (指示是明確的。)
+erstellen	
+創建	Wir erstellen einen detaillierten Bericht. (我們創建了一份詳細報告。)
+festlegen	
+確定	Wir müssen den Termin für das Meeting festlegen. (我們需要確定會議的時間。)
+freigeben	
+釋放，批准	Der Chef hat das Budget freigegeben. (經理批准了預算。)
+gewinnen	
+贏得	Wir haben den ersten Preis gewonnen. (我們贏得了第一名。)
+hinzufügen	
+添加	Bitte fügen Sie noch ein paar Details hinzu. (請再添加一些細節。)
+konnte	
+能夠	Ich konnte das Problem schnell lösen. (我能夠快速解決問題。)
+möglich	
+可能的	Es ist möglich, dass es morgen regnet. (明天可能會下雨。)
+nachvollziehen	
+理解	Ich kann deine Argumentation nicht nachvollziehen. (我無法理解你的論點。)
+ohne	
+沒有	Wir können das Projekt nicht ohne die nötigen Mittel durchführen. (我們不能在沒有必要資金的情況下執行項目。)
+reagieren	
+反應	Wir müssen schnell auf die Beschwerden reagieren. (我們必須迅速回應投訴。)
+sichern	
+確保，保護	Wir müssen die Daten regelmäßig sichern. (我們需要定期保護數據。)
+später	
+後來	Wir können das Problem später besprechen. (我們可以稍後討論這個問題。)
+umsetzen	
+實施，轉換	Wir müssen die neuen Ideen in die Praxis umsetzen. (我們需要把新想法付諸實踐。)
+vergleichen	
+比較	Wir sollten die Angebote vergleichen. (我們應該比較一下報價。)
+verhindern	
+防止	Wir müssen Maßnahmen ergreifen, um Fehler zu verhindern. (我們需要採取措施以防止錯誤。)
+vorbereiten	
+準備	Wir bereiten die Präsentation sorgfältig vor. (我們仔細準備演示。)
+wahrnehmen	
+注意到	Ich habe die Änderung erst später wahrgenommen. (我直到後來才注意到變更。)
+wechseln	
+更換	Wir müssen die alte Software auf die neue Version wechseln. (我們需要將舊軟件更換為新版本。)
+zuordnen	
+分配	Die Aufgaben werden den Teammitgliedern zugeordnet. (任務將分配給團隊成員。)
+ablenken	
+使分心	Lass dich nicht von den Störungen ablenken. (不要被干擾分心。)
+begrenzen	
+限制	Wir müssen die Anzahl der Teilnehmer begrenzen. (我們需要限制參與者的人數。)
+evident	
+明顯的	Es ist evident, dass die Nachfrage steigt. (需求上升是明顯的。)
+exakt	
+精確的	Wir brauchen exakte Daten für die Analyse. (我們需要精確的數據來進行分析。)
+hervorheben	
+強調	Der Bericht hebt die wichtigsten Punkte hervor. (報告強調了最重要的點。)
+kompetent	
+能幹的	Sie ist eine kompetente Fachkraft im Bereich Marketing. (她是市場營銷領域的一名能幹專業人員。)
+planen	
+計劃	Wir planen eine Erweiterung unseres Geschäfts. (我們計劃擴展業務。)
+veröffentlichen	
+發布	Das Unternehmen wird die Ergebnisse morgen veröffentlichen. (公司將於明天發布結果。)

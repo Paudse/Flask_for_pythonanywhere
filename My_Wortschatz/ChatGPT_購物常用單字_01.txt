@@ -1,0 +1,56 @@
+Einkauf	
+購物	Ich mache heute einen Einkauf im Supermarkt. (我今天要去超市購物。)
+Preis	
+價格	Wie hoch ist der Preis für dieses Produkt? (這個產品的價格是多少？)
+Rabatt	
+折扣	Gibt es einen Rabatt auf diesen Artikel? (這個商品有折扣嗎？)
+Angebot	
+特價，優惠	Das Angebot gilt nur bis Ende des Monats. (這個優惠僅限於本月底。)
+Kasse	
+收銀台，付款處	Wir gehen zur Kasse, um zu bezahlen. (我們去收銀台付款。)
+Rechnung	
+發票	Ich hätte gerne eine Rechnung für diesen Kauf. (我希望這次購物能開一張發票。)
+Gutschein	
+禮券，優惠券	Ich habe einen Gutschein für 20% Rabatt. (我有一張20%的折扣券。)
+Rückgabe	
+退貨	Wie kann ich das Produkt zurückgeben? (我怎樣才能退貨？)
+Erstattung	
+退款	Ich möchte eine Erstattung für das defekte Produkt. (我希望對這個有缺陷的產品進行退款。)
+Verkäufer	
+銷售員	Der Verkäufer kann Ihnen bei Fragen weiterhelfen. (銷售員可以幫助你解答問題。)
+Ware	
+商品	Diese Ware ist sehr beliebt. (這個商品非常受歡迎。)
+Qualität	
+品質	Die Qualität dieses Produkts ist sehr hoch. (這個產品的品質非常高。)
+Lager	
+庫存	Ist das Produkt auf Lager? (這個產品有庫存嗎？)
+Bestellung	
+訂單	Ich möchte eine Bestellung aufgeben. (我想下訂單。)
+Lieferung	
+送貨，配送	Die Lieferung erfolgt innerhalb von drei Werktagen. (配送在三個工作日內完成。)
+Verfügbarkeit	
+可用性	Die Verfügbarkeit des Produkts ist begrenzt. (這個產品的可用性有限。)
+Größe	
+尺寸	Welche Größe haben die Schuhe? (這雙鞋子有什麼尺寸？)
+Farbe	
+顏色	In welcher Farbe gibt es diesen Artikel? (這個商品有什麼顏色？)
+Modell	
+型號	Welches Modell möchten Sie kaufen? (您想購買哪個型號？)
+Warenkorb	
+購物車	Legen Sie die Artikel in den Warenkorb. (把商品放入購物車。)
+Versandkosten	
+運費	Wie hoch sind die Versandkosten? (運費是多少？)
+Zahlung	
+付款	Welche Zahlungsmethoden akzeptieren Sie? (您接受哪些付款方式？)
+Barzahlung	
+現金付款	Kann ich bar bezahlen? (我可以用現金付款嗎？)
+Kreditkarte	
+信用卡	Akzeptieren Sie Kreditkarten? (您接受信用卡嗎？)
+Überweisung	
+轉帳	Ich werde die Rechnung per Überweisung bezahlen. (我會通過轉帳支付發票。)
+Geschenk	
+禮物	Ich suche ein Geschenk für meinen Freund. (我在為我的朋友尋找禮物。)
+Probe	
+試用，樣品	Kann ich eine Probe dieses Produkts bekommen? (我可以獲得這個產品的樣品嗎？)
+Kauf	
+購買	Der Kauf dieses Artikels ist verbindlich. (購買這個商品是有約束力的。)

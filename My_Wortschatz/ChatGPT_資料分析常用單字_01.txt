@@ -1,0 +1,62 @@
+Daten	
+數據	Die Daten müssen vor der Analyse bereinigt werden. (數據必須在分析前清理。)
+Analyse	
+分析	Die Analyse der Verkaufszahlen zeigt einen Anstieg. (銷售數據的分析顯示出增長。)
+Statistik	
+統計學	In der Statistik verwenden wir verschiedene Methoden zur Datenanalyse. (在統計學中，我們使用不同的方法進行數據分析。)
+Modell	
+模型	Das Modell prognostiziert zukünftige Trends. (這個模型預測了未來的趨勢。)
+Ergebnis	
+結果	Die Ergebnisse der Umfrage werden nächste Woche veröffentlicht. (調查結果將於下週公布。)
+Diagramm	
+圖表	Wir müssen ein Diagramm erstellen, um die Daten visuell darzustellen. (我們需要製作圖表來直觀地展示數據。)
+Grafik	
+圖形	Die Grafik veranschaulicht die Verteilung der Altersgruppen. (這個圖形說明了年齡分佈。)
+Korrelationsanalyse	
+相關分析	Die Korrelationsanalyse zeigt eine starke Beziehung zwischen den Variablen. (相關分析顯示變量之間有很強的關係。)
+Durchschnitt	
+平均數	Der Durchschnitt der Umsätze liegt bei 5000 Euro. (銷售額的平均數為5000歐元。)
+Median	
+中位數	Der Median des Einkommens beträgt 3000 Euro. (收入的中位數為3000歐元。)
+Streuung	
+散布，變異	Die Streuung der Daten ist relativ gering. (數據的變異相對較小。)
+Trend	
+趨勢	Der Trend zeigt eine kontinuierliche Steigerung der Verkaufszahlen. (趨勢顯示銷售數據持續增長。)
+Hypothese	
+假設	Die Hypothese muss durch weitere Tests überprüft werden. (假設必須通過進一步的測試來驗證。)
+Signifikanz	
+顯著性	Die Signifikanz des Ergebnisses wird durch den p-Wert angegeben. (結果的顯著性由p值表示。)
+Variable	
+變量	Jede Variable in der Studie beeinflusst das Ergebnis. (研究中的每個變量都影響結果。)
+Datensatz	
+數據集	Der Datensatz enthält Informationen aus den letzten fünf Jahren. (數據集包含過去五年的信息。)
+Korrelation	
+相關性	Es gibt eine positive Korrelation zwischen Werbung und Umsatz. (廣告與銷售額之間存在正相關。)
+Regression	
+回歸分析	Die Regression hilft uns, den Einfluss von Variablen zu verstehen. (回歸分析幫助我們理解變量的影響。)
+Clusteranalyse	
+聚類分析	Die Clusteranalyse gruppiert ähnliche Datenpunkte zusammen. (聚類分析將相似的數據點分組在一起。)
+Zeitreihe	
+時間序列	Die Zeitreihe zeigt saisonale Muster im Umsatz. (時間序列顯示銷售額的季節性模式。)
+Fehler	
+錯誤，誤差	Der Fehler in der Berechnung muss korrigiert werden. (計算中的錯誤必須被修正。)
+Normalverteilung	
+正態分布	Viele Daten folgen einer Normalverteilung. (許多數據遵循正態分布。)
+Ausreißer	
+異常值	Der Ausreißer in den Daten könnte auf einen Messfehler hindeuten. (數據中的異常值可能指示測量錯誤。)
+Prognose	
+預測	Die Prognose für die nächsten Quartale sieht positiv aus. (對未來幾個季度的預測是積極的。)
+Verteilung	
+分布	Die Verteilung der Noten ist gleichmäßig. (分數的分布是均勻的。)
+Mittelwert	
+平均數	Der Mittelwert der Bewertungen liegt bei 4,5. (評價的平均數為4.5。)
+Datensammlung	
+數據收集	Die Datensammlung erfolgt durch Umfragen und Interviews. (數據收集通過調查和訪談進行。)
+Quantitativ	
+定量的	Die Studie liefert quantitative Ergebnisse. (這項研究提供了定量結果。)
+Qualitativ	
+定性的	Qualitative Analysen ergänzen die quantitativen Daten. (定性分析補充了定量數據。)
+Benchmarking	
+基準比較	Das Benchmarking hilft, die Leistung im Vergleich zu Mitbewerbern zu bewerten. (基準比較有助於評估與競爭對手相比的績效。)
+Interpretation	
+解釋	Die Interpretation der Ergebnisse erfordert Fachkenntnisse. (結果的解釋需要專業知識。)
