@@ -51,9 +51,16 @@ def for_Flask():
 	dic = {}
 	for i in range (0,len(de)):
 		r = list(range(0,i)) + list(range(i+1, len(de)))
-		dic = {"question": de[i], "options": [ch[i],ch[random.choice(r)]]}
+		ans_num = random.choice([1, 2])
+		if ans_num == 1:
+			dic = {"question": de[i], "options": [ch[i],ch[random.choice(r)]], "ans_num": 1}
+		if ans_num == 2:
+			dic = {"question": de[i], "options": [ch[random.choice(r)], ch[i]], "ans_num": 2}
+
 		questions.append(dic)
 	# print(questions)
+
+
 	return questions
 
 
