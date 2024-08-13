@@ -17,14 +17,21 @@ questions = for_Flask()
 def index():
     # 从会话中获取当前题目的索引，默认值为0
     question_index = session.get('question_index', 0)
+    result_text = "HI"
     
     if request.method == 'POST':
         # 处理用户答案
         answer = request.form.get('answer')
         current_question_index = int(request.form.get('currentQuestionIndex'))
+        ans_num = questions[question_index]['ans_num']
+        if answer == questions[question_index]['options'][ans_num]:
+            result_text = "Correct!"          
+        else:
+            result_text = "Wrong..."
         
         # 将答案保存到会话中
         session[f'answer_{current_question_index}'] = answer
+        session[f'result_text_{current_question_index}'] = result_text
         
         # 更新题目索引
         question_index = current_question_index + 1
@@ -44,9 +51,10 @@ def index():
     # 获取当前题目和选项
     question_data = questions[question_index]
     previous_answer = session.get(f'answer_{question_index - 1}') if question_index > 0 else None
+    previous_result_text = session.get(f'result_text_{question_index - 1}') if question_index > 0 else None
     
     # 渲染模板并传递数据
-    return render_template('index.html', questions=questions, question_index=question_index, result=previous_answer)
+    return render_template('index.html', questions=questions, question_index=question_index, result=previous_result_text)
 
 @app.route('/restart')
 def restart():
