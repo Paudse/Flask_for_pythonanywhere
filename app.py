@@ -25,16 +25,19 @@ def index():
         current_question_index = int(request.form.get('currentQuestionIndex'))
         ans_num = questions[question_index]['ans_num']
         if answer == questions[question_index]['options'][ans_num]:
-            result_text = "Correct!"          
+            result_text = "Correct!"
+            is_correct = True          
         else:
             result_text = "Wrong..."
+            is_correct = False
         
         # 将答案保存到会话中
         session[f'answer_{current_question_index}'] = answer
         session[f'result_text_{current_question_index}'] = result_text
+        session[f'is_correct_{current_question_index}'] = is_correct
         
-        # 更新题目索引
         question_index = current_question_index + 1
+
         
         # 检查是否还有题目
         if question_index >= len(questions):
@@ -52,9 +55,10 @@ def index():
     question_data = questions[question_index]
     previous_answer = session.get(f'answer_{question_index - 1}') if question_index > 0 else None
     previous_result_text = session.get(f'result_text_{question_index - 1}') if question_index > 0 else None
+    previous_is_correct = session.get(f'is_correct_{question_index - 1}') if question_index > 0 else None
     
     # 渲染模板并传递数据
-    return render_template('index.html', questions=questions, question_index=question_index, result=previous_result_text)
+    return render_template('index.html', questions=questions, question_index=question_index, result=previous_result_text, is_correct=previous_is_correct)
 
 @app.route('/restart')
 def restart():
