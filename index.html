@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questionnaire</title>
+    <style>
+        .question {
+            display: none;
+        }
+        .active {
+            display: block;
+        }
+    </style>
+    <script>
+        // 用于控制显示和隐藏问题
+        function showQuestion(index) {
+            const questions = document.querySelectorAll('.question');
+            questions.forEach((q, i) => {
+                q.classList.toggle('active', i === index);
+            });
+        }
+        
+        window.onload = function() {
+            const currentQuestionIndex = parseInt(document.getElementById('currentQuestionIndex').value, 10);
+            showQuestion(currentQuestionIndex);
+        }
+    </script>
+</head>
+<body>
+    <h1>Questionnaire</h1>
+
+    <form action="/" method="post">
+        {% for i in range(questions|length) %}
+        <div class="question">
+            <h2>{{ questions[i]['question'] }}</h2>
+            {% for option in questions[i]['options'] %}
+            <button type="submit" name="answer" value="{{ option }}">{{ option }}</button>
+            {% endfor %}
+        </div>
+        {% endfor %}
+        
+        <!-- Hidden input to keep track of the current question index -->
+        <input type="hidden" id="currentQuestionIndex" name="currentQuestionIndex" value="{{ question_index }}">
+    </form>
+
+    {% if result %}
+    <h2>Previous Answer</h2>
+    <p>Your answer to the previous question: {{ result|safe }}</p>
+    {% endif %}
+</body>
+</html>

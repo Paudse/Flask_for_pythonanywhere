@@ -15,6 +15,48 @@ import os
 os.system('color')
 os.system('mode con: cols=100 lines=20')
 
+def for_Flask():
+	folder = "./My_Wortschatz/"
+	file = "My_Wortschatz_2024_08_12"
+	print('--------------------------------------')
+	print(file)
+	print('--------------------------------------')
+	time_start = time.time()
+	with open(foler_file_name, "r", encoding='utf-8') as f: 
+		data = f.readlines()
+
+	de = []
+	ch = []
+	for i in range (0,len(data)):
+		# print(i%3)
+		# print(data[i])
+		if de2ch == 1:
+			if i%2 == 0:
+				de.append(data[i].replace('\n', ''))
+			if i%2 == 1:
+				ch.append(data[i].replace('\n', ''))
+		else:
+			if i%2 == 1:
+				de.append(data[i].replace('\n', ''))
+			if i%2 == 0:
+				ch.append(data[i].replace('\n', ''))
+
+	# for j in range (0,len(de)):
+		# print(de[j], ' : ',ch[j])
+
+	c = list(zip(de, ch))
+	random.shuffle(c)
+	de, ch = zip(*c)
+	questions = []
+	dic = {}
+	for i in range (0,len(de)):
+		r = list(range(0,i)) + list(range(i+1, len(de)))
+		dic = {"question": de[i], "options": [ch[i],ch[random.choice(r)]]}
+		questions.append(dic)
+	# print(questions)
+	return questions
+
+
 def test(foler_file_name):
 	print('--------------------------------------')
 	print(file)
@@ -114,10 +156,12 @@ def test(foler_file_name):
 
 
 if __name__ == '__main__':
-	testing = 1
-	while testing:
-		test(foler_file_name)
-		testing = input('Enter 1 for testing again: ')
+	for_Flask(foler_file_name)
+
+	# testing = 1
+	# while testing:
+	# 	test(foler_file_name)
+	# 	testing = input('Enter 1 for testing again: ')
 
 
 
