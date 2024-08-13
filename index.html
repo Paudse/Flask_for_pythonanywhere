@@ -26,11 +26,13 @@
             background-color: #45a049; /* 鼠标悬停时的背景颜色 */
         }
         .result {
-            padding: 10px;
+            padding: 15px 30px;
+            font-size: 30px; /* 增大按钮文字的大小 */
             color: white; /* 文字颜色 */
             font-weight: bold; /* 加粗文字 */
             border-radius: 5px; /* 圆角 */
             text-align: center; /* 居中对齐 */
+            max-width: 350px; /* 设置最大宽度为600px */
         }
         .correct {
             background-color: green; /* 正确时显示绿色 */
@@ -60,7 +62,7 @@
     <form action="/" method="post">
         {% for i in range(questions|length) %}
         <div class="question">
-            <h2>{{i}} / {{questions|length}}</h2>
+            <h2>{{i+1}} / {{questions|length}}</h2>
             <h2>{{ questions[i]['question'] }}</h2>
             {% for option in questions[i]['options'] %}
             <!-- <button type="submit" name="answer" value="{{ option }}">{{ option }}</button> -->
@@ -75,13 +77,14 @@
     <br>
     {% if result %}
     <h2>Previous Answer</h2>
+        <div id="result" class="result {{ 'correct' if is_correct else 'incorrect' }}">
+        <!-- 根据 is_correct 变量显示不同的内容 -->
+        {{ 'The answer was correct!' if is_correct else 'The answer was incorrect!' }}
+    </div>
     <!-- <p>Your answer to the previous question: {{ result|safe }}</p> -->
-    <h2>{{ result|safe }}</h2>
+<!--     <h2>{{ result|safe }}</h2> -->
+    <h2>{{ question_data['question'] }} {{ question_data['options'][question_data['ans_num']] }}</h2>
     {% endif %}
 
-    <div id="result" class="result {{ 'correct' if is_correct else 'incorrect' }}">
-        <!-- 根据 is_correct 变量显示不同的内容 -->
-        {{ 'The result is correct!' if is_correct else 'The result is incorrect!' }}
-    </div>
 </body>
 </html>

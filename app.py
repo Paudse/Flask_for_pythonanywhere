@@ -53,12 +53,13 @@ def index():
 
     # 获取当前题目和选项
     question_data = questions[question_index]
+    previous_question_data = questions[question_index-1]
     previous_answer = session.get(f'answer_{question_index - 1}') if question_index > 0 else None
     previous_result_text = session.get(f'result_text_{question_index - 1}') if question_index > 0 else None
     previous_is_correct = session.get(f'is_correct_{question_index - 1}') if question_index > 0 else None
     
     # 渲染模板并传递数据
-    return render_template('index.html', questions=questions, question_index=question_index, result=previous_result_text, is_correct=previous_is_correct)
+    return render_template('index.html', question_data = previous_question_data, questions=questions, question_index=question_index, result=previous_result_text, is_correct=previous_is_correct)
 
 @app.route('/restart')
 def restart():
